@@ -1,0 +1,37 @@
+---
+layout: post
+title: "\n\t\t\t\tSolución al problema de repositorios no encontrados en PCLinuxOS\t\t"
+---
+
+
+				Bueno, sé que no hay muchos usuarios de PCLinux que hablen español pero supongo que a alguien le puede servir esto:
+
+Desde la semana pasada al tratar de actualizar via Synaptic, me aparecían errores del tipo "IP not found" al actualizar la lista de los paquetes con los dos repositorios que venían de forma predeterminada desde la última vez que se actualizó la lista. Lo mismo ocurría al seleccionar alguno de las otras fuentes disponibles.
+
+En mi desesperación, seleccioné más de un repo para paquetes de tipo main updates nonfree kde games xfce4 y dejé el único disponible para paquetes de la categoría megagames (lo recomendado es seleccionar uno y sólo uno por tipo haciendo un total de 2) pero tampoco tuve éxito.
+
+El día de hoy se publica en <a href="http://www.pclinuxos.com/?p=1800">la página de la distro</a> que este error se debe a la reubicación del servidor primario de paquetes (que es de donde los mirrors obtienen los paquetes) causando que la estructura de este y los demás servidores cambiara y logrando con esto que el archivo /etc/apt/sources.list estuviera desactualizado y Synaptic inutilizado para obtener las actualizaciones pero ya ha sido publicada una solución:
+
+<!--more-->
+
+Como siempre en el mundo de GNU/Linux, es posible hacer las cosas mediante consola o interfaz gráfica:
+<p style="text-align: center;"></p>
+Mediante interfaz gráfica via Synaptic
+<p style="text-align: center;"></p>
+1.- Abrir Synaptic
+<p style="text-align: center;"></p>
+2.- En el menú principal seleccionar Settings
+<p style="text-align: center;"></p>
+3.- Seleccionar la opción Repositories
+<p style="text-align: center;"></p>
+3.- Agregar un nuevo mirror con la siguiente información correspondiente a uno de los nuevos servidores habilitados para la distribución de paquetes de PCLinux
+<p style="text-align: center;"></p>
+4.- Seleccionar el mirror recién añadido
+
+5.- Menú principal y seleccionar Reload y después Mark All Upgrades
+<p style="text-align: center;"></p>
+6.- Después de la actualización, una nueva versión del paquete apt-source-list será instalada actualizando /etc/apt/sources.list y con esto agregando los nuevos mirror para futuras actualizaciones y actualizaciones pasadas que hayas omitido
+<p style="text-align: center;"></p>
+Mediante consola:
+
+Pueden consultar los pasos a seguir para cambiar el archivo sources.list de manera manual en la entrada del foro de PCLinux relacionada con <a href="http://www.pclinuxos.com/forum/index.php/topic,87378.msg722604.html#msg722604">actualización de sistema</a>

@@ -1,0 +1,27 @@
+---
+layout: post
+title: "\n\t\t\t\tMúltiples instancias de Skype en Linux\t\t"
+---
+
+
+				<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=373" rel="attachment wp-att-373"><img class="size-full wp-image-373 aligncenter" alt="skype-logo-groot" src="http://blog.ferperales.net/wp-content/uploads/2013/02/skype-logo-groot.jpg" width="225" height="225" /></a></p>
+A veces nos vemos en la necesidad de utilizar varias cuentas de manera simultanea de este cliente de mensajería cosa que es muy fácil de lograr en nuestra distribución de Linux favorita.
+
+Pondré los pasos para PCLinuxOS con entorno de escritorio LXDE pero los pasos deben de ser similares en cualquier distribución. Como siempre, esto se puede realizar mediante la terminal o la interfaz gráfica y lo haré con la interfaz:
+
+En nuestro explorador de archivos (que en LXDE es PCManFM) abrimos la carpeta del usuario actual y seleccionamos View &gt; Show Hidden
+<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=375" rel="attachment wp-att-375"><img class="size-full wp-image-375 aligncenter" alt="Menu_083" src="http://blog.ferperales.net/wp-content/uploads/2013/02/Menu_083.png" width="225" height="221" /></a></p>
+Skype guarda todos los datos de configuración en una carpeta oculta llamada .Skype
+<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=376" rel="attachment wp-att-376"><img class="size-full wp-image-376 aligncenter" alt="Selection_084" src="http://blog.ferperales.net/wp-content/uploads/2013/02/Selection_084.png" width="78" height="79" /></a></p>
+Copiamos esa carpeta en la misma ubicación y la renombramos
+<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=377" rel="attachment wp-att-377"><img class="size-full wp-image-377 aligncenter" alt="Selection_085" src="http://blog.ferperales.net/wp-content/uploads/2013/02/Selection_085.png" width="171" height="85" /></a></p>
+Después creamos un acceso directo a Skype en nuestro escritorio
+<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=378" rel="attachment wp-att-378"><img class="size-full wp-image-378 aligncenter" alt="Selection_086" src="http://blog.ferperales.net/wp-content/uploads/2013/02/Selection_086.png" width="103" height="87" /></a></p>
+Y agregamos a la ruta del archivo ejecutable lo siguiente
+
+[bash]skype --dbpath=~/.carpeta_configuracion[/bash]
+
+Donde .carpeta_configuracion es el nombre de la carpeta que acabamos de crear
+
+¡Listo! Ya podemos tener dos cuentas de Skype abiertas al mismo tiempo
+<p style="text-align: center;"><a href="http://blog.ferperales.net/?attachment_id=380" rel="attachment wp-att-380"><img class=" wp-image-380 aligncenter" alt="Selection_087" src="http://blog.ferperales.net/wp-content/uploads/2013/02/Selection_0871.png" width="778" height="597" /></a></p>		
