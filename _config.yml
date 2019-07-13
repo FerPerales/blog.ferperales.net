@@ -29,6 +29,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page/:num"
+
+excerpt_separator: "<!--more-->"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

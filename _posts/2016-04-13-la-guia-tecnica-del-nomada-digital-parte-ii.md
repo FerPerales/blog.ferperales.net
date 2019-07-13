@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "\n\t\t\t\tLa guía técnica del nómada digital (parte II)\t\t"
+title: La guía técnica del nómada digital (parte II)
+author: Fer Perales
 ---
 
 
-				[caption id="attachment_939" align="aligncenter" width="700"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-03-30-09-50-17/" rel="attachment wp-att-939"><img class="wp-image-939 size-large" src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-30-09.50.17-1024x576.jpg" alt="2016-03-30 09.50.17" width="700" height="394" /></a> Estación de trabajo temporal en Colima[/caption]
+![Estación de trabajo temporal en Colima](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-30-09.50.17-1024x576.jpg)
 
 En el post anterior hablamos sobre los fundamentos de ergonomía que debemos considerar al trabajar por tiempo prolongado en la computadora y cómo una base para laptop nos ayuda a adoptar una mejor postura frente al equipo.
 
 En este post toca hablar sobre los periféricos más básicos para poder trabajar de manera cómoda: el mouse y el teclado.
 
-<h2 style="text-align: center;">Mouse</h2>
+## Mouse
 
 A menos que seamos gamers o que desempeñemos alguna actividad que requiere precisión con el puntero, creo que es el componente de trabajo al que menos solemos ponerle atención.
 
@@ -18,23 +19,23 @@ Mi primera opción fue el mouse de Mac, pero la ausencia de botones físicos y s
 
 Después compre un Razer Naga 2014 pensando en mis, en ese entonces, largas sesiones de jugar DotA 2. No tengo queja alguna con el mouse: con sus doce botones laterales accesibles con el pulgar que son 100% configurables, ofrece bastante flexibilidad a la hora de programar macros no solo a la hora de jugar sino cuando trabajamos.
 
-[caption id="attachment_937" align="aligncenter" width="438"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-04-05-09-03-58/" rel="attachment wp-att-937"><img class="wp-image-937 " src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-05-09.03.58-1024x576.jpg" alt="2016-04-05 09.03.58" width="438" height="254" /></a> Razer Naga 2014[/caption]
+![Razer Naga 2014](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-05-09.03.58-1024x576.jpg)
 
 El tamaño es grande, pero eso no es inconveniente para alguien con manos grandes como yo. El único inconveniente para utilizarlo como mi mouse de viaje es el tamaño y el peso.
 
 Hace poco mas de un año compré un mouse marca Aztec Warrior en Linio y que, hasta la fecha, sigue siendo mi mouse para viaje.
 
-[caption id="attachment_946" align="aligncenter" width="311"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-04-12-23-21-29/" rel="attachment wp-att-946"><img class="wp-image-946" src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.21.29-576x1024.jpg" alt="2016-04-12 23.21.29" width="311" height="443" /></a> Aztec Warrior[/caption]
+![Aztec Warrior](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.21.29-576x1024.jpg)
 
 Además del tamaño y el peso, otra cosa a considerar a la hora de comprar un mouse para viaje es si elegir uno inalámbrico o uno tradicional. En mi opinion, un mouse alámbrico nos quitaría la preocupación de, entre tanto viaje, perder el receptor y dejar nuestro mouse prácticamente inusable.
 
 Me gustaría probar un trackpad de Apple, pero estoy un poco preocupado por el posible bajo rendimiento de la batería y la compatibilidad con sistemas operativos Linux, pero prometo probarlo en cuanto se presente la oportunidad y actualizar la publicación.
 
-<h2 style="text-align: center;">Teclado</h2>
+## Teclado
 
 Como ya lo había comentado, en casa uso un Steelseries Apex que, a pesar de no ser un teclado mecánico, ofrece un muy buen tacto a comparación de los teclados de membrana comerciales. También, como ya lo había mencionado, el tamaño es el peor inconveniente para usarlo como teclado de viaje ya que es un teclado de 110 teclas más las teclas de macro del lado izquierdo más las teclas multimedia del lado derecho a un lado del teclado numérico. No solo no cabe en mi maletín, sino que tampoco cabe en mi mochila.
 
-[caption id="attachment_936" align="aligncenter" width="528"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-04-06-09-26-47/" rel="attachment wp-att-936"><img class="wp-image-936 " src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-06-09.26.47-1024x576.jpg" alt="2016-04-06 09.26.47" width="528" height="261" /></a> Steelseries Apex[/caption]
+![Steelseries Apex](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-06-09.26.47-1024x576.jpg)
 
 Hablaremos más a detalle sobre cómo transportar nuestro equipo en la última parte de esta serie.
 
@@ -42,27 +43,21 @@ Antes de entrar a detalle con opciones de teclado, cabe mencionar que uno de los
 
 Hay tres grandes categorías en los teclados:
 
-<ul>
-    <li>Teclados completos: tienen teclado numérico y teclas de función dedicadas. Es la distribución más usada</li>
-</ul>
+* Teclados completos: tienen teclado numérico y teclas de función dedicadas. Es la distribución más usada
 
-<img class="aligncenter wp-image-955 size-full" src="http://blog.ferperales.net/wp-content/uploads/2016/04/100.png" alt="100" width="799" height="232" />
+![Teclado completo](http://blog.ferperales.net/wp-content/uploads/2016/04/100.pn)
 
-<ul>
-    <li>Teclados 80% o tenkeyless: sin teclado numérico, pero tiene teclas de función dedicadas.</li>
-</ul>
+* Teclados 80% o tenkeyless: sin teclado numérico, pero tiene teclas de función dedicadas.
 
-<img class="aligncenter wp-image-953 size-full" src="http://blog.ferperales.net/wp-content/uploads/2016/04/60.png" alt="60" width="746" height="266" />
+![Teclado 80%](http://blog.ferperales.net/wp-content/uploads/2016/04/60.png)
 
-<ul>
-    <li>Teclados 60% o mini: sin teclado numérico ni teclas de función dedicadas.</li>
-</ul>
+* Teclados 60% o mini: sin teclado numérico ni teclas de función dedicadas.
 
-<img class="aligncenter wp-image-954 size-full" src="http://blog.ferperales.net/wp-content/uploads/2016/04/80.png" alt="80" width="746" height="266" />
+![Teclado 60%](http://blog.ferperales.net/wp-content/uploads/2016/04/80.png)
 
 Pensando en la portabilidad, use por un tiempo un teclado Logitech K410 que parecía perfecto ya que, al estar pensado para usarse en la sala conectado a televisores, es inalámbrico, muy compacto y tiene un trackpad integrado.
 
-[caption id="attachment_945" align="aligncenter" width="518"]<img class="wp-image-945 " src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.52.56-1024x576.jpg" alt="2016-04-12 23.52.56" width="518" height="288" /> Logitech K410[/caption]
+![Logitech K410](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.52.56-1024x576.jpg)
 
 El problema con dicho teclado es su distribución: ya que logitech quizo meter muchas teclas en una superficie tan pequeña, las teclas son más pequeñas de lo normal lo que propicia muchos errores incluso al usarlo de manera prolongada. El teclado no es malo cumpliendo su propósito original: usarse en la sala conectado a una computadora o a un televisor, pero como teclado para programar es terriblemente malo.
 
@@ -70,30 +65,28 @@ Hace dos meses comencé a echarle el ojo a algunos teclados mecánicos que me ha
 
 El KBParadise V60 es un teclado mecánico 60% con iluminación en dos colores que se pueden alternar entre rojo, azul y verde según el modelo.
 
-[caption id="attachment_957" align="aligncenter" width="960"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/v60/" rel="attachment wp-att-957"><img class="wp-image-957 size-full" src="http://blog.ferperales.net/wp-content/uploads/2016/04/v60.jpg" alt="v60" width="960" height="562" /></a> KBParaside V60[/caption]
-
-&nbsp;
+![KBParadise V60](http://blog.ferperales.net/wp-content/uploads/2016/04/v60.jpg)
 
 Code Keyboard viene en dos presentaciones: teclado completo o teclado 80% teclas. Me decidí por probar la versión 80%.
 
-[caption id="attachment_949" align="aligncenter" width="700"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-04-12-23-57-07/" rel="attachment wp-att-949"><img class="wp-image-949 size-large" src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.57.07-1024x576.jpg" alt="2016-04-12 23.57.07" width="700" height="394" /></a> CODE keyboard 80%[/caption]
+![CODE keyboard 80%](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.57.07-1024x576.jpg)
 
 Es un teclado cómodo y se ve muy elegante gracias a la retroiluminación provista por los led blancos. Otro punto a favor es la ubicación de las teclas multimedia en el área superior de las feclas de dirección, mismas que son accesibles a través de la tecla de Fn.
 
 He estado utilizando el Code Keyboard de manera regular y vale la pena cargar el peso adicional por la comodidad que brinda. También he estado tentado a reemplazar mi Steelseries Apex por este como teclado principal y conseguir el KBParaside V60 para usarlo como teclado de viaje, pero es un cambio que no tengo pensado realizar en el corto plazo.
 
-<h2 style="text-align: center;">El complemento ideal</h2>
+## El complemento ideal
 
 Ultimamente he estado utilizando unas almohadillas para descansar las muñecas mientras trabajo y la diferencia es brutal: al levantar la muñeca de posición, se ejerce menos tension en la misma, logrando con eso trabajar de manera más cómoda y sufrir menos los dolores característicos al usar el teclado y el mouse de manera prolongada, reduciendo con esto la posibilidad de reducir una de las enfermedades que más aquejan a las personas que pasamos mucho tiempo en la computadora: el síndrome del túnel carpiano.
 
-[caption id="attachment_950" align="aligncenter" width="700"]<img class="wp-image-950 size-large" src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-13-00.07.12-1024x576.jpg" alt="2016-04-13 00.07.12" width="700" height="394" /> Almohadillas Grifiti 14 (arriba, para teclado 80%) y 8 (abajo, para mouse)[/caption]
+![Almohadillas Grifiti 14 (arriba, para teclado 80%) y 8 (abajo, para mouse)](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-13-00.07.12-1024x576.jpg)
 
-<h2 style="text-align: center;">Conclusión</h2>
+## Conclusión
 
 Hemos cubierto de manera breve lo que necesitamos considerar al adquirir los gadgets que nos acompañarán en nuestra vida de nómada digital.
 
-[caption id="attachment_941" align="aligncenter" width="700"]<a href="http://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/2016-03-17-07-00-13/" rel="attachment wp-att-941"><img class="wp-image-941 size-large" src="http://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-17-07.00.13-1024x576.jpg" alt="2016-03-17 07.00.13" width="700" height="394" /></a> Estación de trabajo temporal en Colombia[/caption]
+![Estación de trabajo temporal en Colombia](http://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-17-07.00.13-1024x576.jpg)
 
 En el siguiente post de esta serie, nos enfocaremos en los cables y conectores así como en una forma práctica de mantener todo en su lugar en nuestras maletas.
 
-¡Saludos y felices viajes!		
+¡Saludos y felices viajes!

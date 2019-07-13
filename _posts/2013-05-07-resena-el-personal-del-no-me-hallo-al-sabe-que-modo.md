@@ -3,15 +3,15 @@ layout: post
 title: "\n\t\t\t\t[Reseña] El personal: del no me hallo al sabe qué modo\t\t"
 ---
 
+![El Personal](http://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal2.jpg)
 
-				<p style="text-align: center;"><a href="http://blog.ferperales.net/2013/05/resena-el-personal-del-no-me-hallo-al-sabe-que-modo/elpersonal2/" rel="attachment wp-att-516"><img class=" wp-image-516 aligncenter" alt="elpersonal2" src="http://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal2.jpg" width="298" height="480" /></a></p>
-<span style="line-height: 1.714285714; font-size: 1rem;">Debo admitir que no tenía muchas expectativas sobre esta presentación debido a que ya había visto a El Personal en la FIM edición 2011, en el Barramericano el año pasado y en el rojo café hace dos meses: sabía que me gustaría y por supuesto que esta vez no fue la excepción.</span>
+Debo admitir que no tenía muchas expectativas sobre esta presentación debido a que ya había visto a El Personal en la FIM edición 2011, en el Barramericano el año pasado y en el rojo café hace dos meses: sabía que me gustaría y por supuesto que esta vez no fue la excepción.
 
 El evento inició alrededor de las 9:30 p.m en el rojo café: un lugar pequeño ubicado en la zona de paseo Chapultepec que cuenta con un pequeño auditorio y un aforo para unas 70 personas aproximadamente.
 
 <!-- more -->
 
-<span style="font-size: 1rem; line-height: 1.714285714;">Si bien es cierto que parte de la </span>esencia<span style="font-size: 1rem; line-height: 1.714285714;"> de la banda era gracias al fallecido Julio Haro, considero que siguen haciendo un trabajo bastante respetable y, aunque habrá personas que consideren que la banda murió junto con Julio, creo que los fans de El Personal (que creo que sí existen y no sólo hay fans de Julio Haro) no se decepcionarán si asisten a verlos en vivo.</span>
+Si bien es cierto que parte de la ***esencia*** de la banda era gracias al fallecido Julio Haro, considero que siguen haciendo un trabajo bastante respetable y, aunque habrá personas que consideren que la banda murió junto con Julio, creo que los fans de El Personal (que creo que sí existen y no sólo hay fans de Julio Haro) no se decepcionarán si asisten a verlos en vivo.
 
 Sin caer en comparaciones innecesarias, creo que Leo Quirarte es un buen front man y hace un buen papel tanto en lo vocal como en lo musical dentro de la banda aunado a la gran mancuerna conformada por Gustavo Ortiz y Andrés Haro y con el agradable toque extra que aporta Pili Reyes.
 
@@ -60,4 +60,4 @@ Encore
 	<li>No me hallo</li>
 	<li>La tapatía</li>
 </ul>
-La gente del rojo café grabó la presentación de hace dos meses y también la de esta ocasión misma que se puede ser vista en su <a href="http://youtube.com/rojocafe">canal de Youtube</a>		
+La gente del rojo café grabó la presentación de hace dos meses y también la de esta ocasión misma que se puede ser vista en su <a href="http://youtube.com/rojocafe">canal de Youtube</a>
