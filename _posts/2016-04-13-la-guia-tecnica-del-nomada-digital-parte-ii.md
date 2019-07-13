@@ -45,7 +45,7 @@ Hay tres grandes categorías en los teclados:
 
 * Teclados completos: tienen teclado numérico y teclas de función dedicadas. Es la distribución más usada
 
-![Teclado completo](http://blog.ferperales.net/wp-content/uploads/2016/04/100.pn)
+![Teclado completo](http://blog.ferperales.net/wp-content/uploads/2016/04/100.png)
 
 * Teclados 80% o tenkeyless: sin teclado numérico, pero tiene teclas de función dedicadas.
 
