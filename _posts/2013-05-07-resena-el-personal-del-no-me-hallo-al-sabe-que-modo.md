@@ -3,7 +3,7 @@ layout: post
 title: "\n\t\t\t\t[Reseña] El personal: del no me hallo al sabe qué modo\t\t"
 ---
 
-![El Personal](http://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal2.jpg)
+![El Personal](https://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal2.jpg)
 
 Debo admitir que no tenía muchas expectativas sobre esta presentación debido a que ya había visto a El Personal en la FIM edición 2011, en el Barramericano el año pasado y en el rojo café hace dos meses: sabía que me gustaría y por supuesto que esta vez no fue la excepción.
 
@@ -18,14 +18,14 @@ Sin caer en comparaciones innecesarias, creo que Leo Quirarte es un buen front m
 Posiblemente el hecho de que jamás me tocó ver a la banda con Julio le de un toque especial a escuchar las canciones en vivo y haga que me guste peroquizá alguien que sí tuvo esa oportunidad, considere esto como un fallido intento de mantener viva a la leyenda.
 
 El setlist no tuvo muchas sorpresas: tocaron completo el disco 'No me hallo' y el nuevo disco 'Sabe qué modo' y algunas otras canciones del 'Melodías inmortales' y del 'La última y nos vamos'
-<p style="text-align: center;"><a href="http://blog.ferperales.net/2013/05/resena-el-personal-del-no-me-hallo-al-sabe-que-modo/elpersonal1/" rel="attachment wp-att-515"><img class=" wp-image-515 aligncenter" alt="elpersonal1" src="http://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal1.jpg" width="384" height="386" /></a></p>
+<p style="text-align: center;"><a href="https://blog.ferperales.net/2013/05/resena-el-personal-del-no-me-hallo-al-sabe-que-modo/elpersonal1/" rel="attachment wp-att-515"><img class=" wp-image-515 aligncenter" alt="elpersonal1" src="https://blog.ferperales.net/wp-content/uploads/2013/05/elpersonal1.jpg" width="384" height="386" /></a></p>
 
 
 <hr />
 
 Detalles:
 Fecha: 4 de mayo a las 9.30 p.m
-Lugar: <a href="http://rojocafe.com.mx">Rojo café</a>
+Lugar: <a href="https://rojocafe.com.mx">Rojo café</a>
 Costo: $150
 
 Alineación:
@@ -60,4 +60,4 @@ Encore
 	<li>No me hallo</li>
 	<li>La tapatía</li>
 </ul>
-La gente del rojo café grabó la presentación de hace dos meses y también la de esta ocasión misma que se puede ser vista en su <a href="http://youtube.com/rojocafe">canal de Youtube</a>
+La gente del rojo café grabó la presentación de hace dos meses y también la de esta ocasión misma que se puede ser vista en su <a href="https://youtube.com/rojocafe">canal de Youtube</a>
