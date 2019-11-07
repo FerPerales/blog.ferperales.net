@@ -1,3 +1,4 @@
 export SSH_USERNAME=''
 export HOST=''
 export DESTINATION=''
+export DISCUSS_SHORTNAME=''
