@@ -17,7 +17,7 @@ title: Blog de Fer Perales
 email: me@ferperales.net
 description: "Startup&Coding&Design&Music&More"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.ferperales.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.ferperales.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ferperalesm
 github_username:  ferperales
 permalink: /:year/:month/:title
