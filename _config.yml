@@ -44,6 +44,8 @@ disqus:
 google_analytics:
   tracking_id: UA-152914723-1
 
+author: Fer Perales
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
