@@ -16,17 +16,17 @@ fundamentales](https://www.artofmanliness.com/articles/30-days-to-a-better-man-d
 La publicación original menciona los siguientes puntos:
 
 **Nos da propósito:** cuando no tenemos nuestros valores fundamentales definidos, estaremos a la
-deriva por la vida. En vez de tomar nuestras decisiones basados en nuestra brújula internal,
+deriva por la vida. En vez de tomar nuestras decisiones basados en nuestra brújula interna,
 las tomamos basados en las circunstancias y la presión social. Terminamos tratando de satisfacer
 las expectaciones de otras personas en lugar de las nuestras. Y antes de que te des cuenta, la
 vida ha pasado y no has comenzado a vivir. Intentar ser alguien mas y vivir sin valores
 fundamentales es agotador y nos hace sentir vacíos e indolentes. A la inversa, vivir una vida
-alineada a nuestros valores nos trae propósito, dirección, felicidad y un sentimiendo de
+alineada a nuestros valores nos trae propósito, dirección, felicidad y un sentimiento de
 integridad.
 
 **Evita que tomemos malas decisiones:** quizá tienes una idea vaga sobre tus valores pero, si no los
 has definido claramente, puedes terminar tomando decisiones que entrar en conflicto con ellos.
-Cuando nuestras acciones conflitúan con nuestros valores, el resultados es infelicidad y
+Cuando nuestras acciones conflictúan con nuestros valores, el resultados es infelicidad y
 frustración.
 
 **Nos da confianza:** Cuando nos tomamos el tiempo para realmente pensar y analizar las cosas que
@@ -37,7 +37,7 @@ comprometidos a vivir alineados a ellos.
 **Hace nuestra vida más simple:** La toma de decisiones se vuelve más fácil cuando estamos seguros
 de nuestros valores fundamentales. Cuando tenemos que tomar una decisión, simplemente nos
 preguntamos: ¿Esta acción se alínea con mis valores? Si sí, la realizamos y, si no, pues no. En
-lugar de angustiarnos sobre cuál es la mejor elección y titubear en tiempos de crísis, simplemente
+lugar de angustiarnos sobre cuál es la mejor elección y titubear en tiempos de crisis, simplemente
 dejamos que nuestra brújula interna nos guíe.
 
 ## ¿Cuáles son mis cinco valores fundamentales?
@@ -54,7 +54,7 @@ dejamos que nuestra brújula interna nos guíe.
 </figure>
 
 Mi entendimiento de la independencia conlleva el tener confianza en ti mismo, desear adquirir
-habilidades y experiencias para tener mayor control sobre tu vida y arriesgarte a fracasar en la
+habilidades y experiencias para tener mayor control sobre tu vida y arriesgaste a fracasar en la
 realización de nuevas tareas para obtener la experiencia fundamental para dominarlas e incrementar
 tu grado de independencia.
 
@@ -68,7 +68,7 @@ tu grado de independencia.
 </figure>
 
 Creo que, cuando te conviertes en adulto, debes hacer las cosas porque son correctas y están bien, y porque tu
-deseo de servir a otros supera tu propia comodidad y de eso trata el altruísmo: procurar el bien de las otras
+deseo de servir a otros supera tu propia comodidad y de eso trata el altruismo: procurar el bien de las otras
 personas de manera desinteresada
 
 ### Liderazgo
@@ -110,7 +110,7 @@ propia y ajena. Una persona sabia siempre va varios pasos adelante.
 
 ¿Te imaginas todo lo que podrías lograr con autodisciplina?
 Una persona sin autodisciplina es como un barco sin rumbo. La autodisciplina nos permite alcanzar
-nuestro máximo potencial y nos obliga a enfocarnos en laas acciones que nos acercan a anuestros
+nuestro máximo potencial y nos obliga a enfocarnos en las acciones que nos acercan a nuestros
 objetivos ignorando toda distracción.
 
 <hr class='entry-separator'/>
