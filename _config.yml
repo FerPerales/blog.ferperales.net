@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 5
 paginate_path: "/page/:num"
@@ -46,6 +47,18 @@ google_analytics:
 
 author: Fer Perales
 
+twitter:
+  username: FerPeralesM
+  card: summary
+
+social:
+  name: Fer Perales
+  links:
+    - https://twitter.com/FerPeralesM
+    - https://www.linkedin.com/in/FerPerales
+    - https://github.com/ferperales
+
+lang: es_MX
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
