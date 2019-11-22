@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blog de Fer Perales
+pagination:
+  enabled: true
 ---
 
 <!-- This loops through the paginated posts -->
@@ -13,9 +15,7 @@ title: Blog de Fer Perales
     {{ post.excerpt or post.content | strip_html | truncatewords: 55 }}
     <a href="{{ post.url }}"> leer más</a>
   </div>
-  <p>
-    <hr />
-  </p>
+  <hr />
 
   &nbsp;
 {% endfor %}

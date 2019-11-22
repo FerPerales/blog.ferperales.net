@@ -29,11 +29,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
 
-paginate: 5
-paginate_path: "/page/:num"
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num"
+  sort_reverse: true
 
 excerpt_separator: "<!--more-->"
 show_excerpts: true
