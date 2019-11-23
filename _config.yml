@@ -73,3 +73,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - deploy.sh
+
+sass:
+  style: compressed
