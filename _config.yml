@@ -45,8 +45,7 @@ comments: true
 disqus:
   shortname: ferperalesnet
 
-google_analytics:
-  tracking_id: UA-152914723-1
+google_analytics: UA-152914723-1
 
 author: Fer Perales
 
