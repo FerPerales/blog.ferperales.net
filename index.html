@@ -25,11 +25,11 @@ pagination:
 {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class='prev-link' href="{{ paginator.next_page_path | relative_url }}">&laquo; Posts anteriores</a>
+      <a class='prev-link' href="{{ paginator.next_page_path | relative_url }}/">&laquo; Posts anteriores</a>
     {% endif %}
 
     {% if paginator.previous_page %}
-      <a class='next-link' href="{{ paginator.previous_page_path | relative_url }}">Posts recientes &raquo;</a>
+      <a class='next-link' href="{{ paginator.previous_page_path | relative_url }}/">Posts recientes &raquo;</a>
     {% endif %}
 
   </div>
