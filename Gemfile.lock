@@ -47,6 +47,8 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-compose (0.11.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (1.5.2)
@@ -107,6 +109,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.1)
   jekyll-assets
+  jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2
   jekyll-redirect-from
