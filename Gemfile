@@ -19,7 +19,6 @@ gem 'minima', '~> 2.0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'github-pages'
   gem 'jekyll-assets'
   gem 'jekyll-compose'
   gem 'jekyll-feed', '~> 0.6'
