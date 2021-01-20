@@ -39,3 +39,6 @@ gem 'wdm', '~> 0.1.0', :install_if => Gem.win_platform?
 
 gem 'sprockets', '~> 3.7'
 
+gem 'nokogiri', ">= 1.11.0.rc4"
+gem "kramdown", ">= 2.3.0"
+
