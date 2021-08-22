@@ -41,4 +41,5 @@ gem 'sprockets', '~> 3.7'
 
 gem 'nokogiri', ">= 1.11.0.rc4"
 gem "kramdown", ">= 2.3.0"
+gem 'kramdown-parser-gfm'
 
