@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="es_MX"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Solución al problema de montado automático de unidades NTFS en PCLinuxOS | Blog de Fer Perales</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Solución al problema de montado automático de unidades NTFS en PCLinuxOS" />
+<meta name="author" content="Fer Perales" />
+<meta property="og:locale" content="es_MX" />
+<meta name="description" content="Varios usuarios de PCLinuxOS (y al parecer de otros sistemas operativos GNU/Linux) han reportado que, después de las últimas actualizaciones al sistema, el montado de unidades NTFS ha dejado de funcionar. El error proviene de la más reciente actualización del paquete ntfs-3g que es el controlador encargado de dar soporte de lectura y escritura a unidades con sistema NTFS mandando el siguiente mensaje de error: &quot;Cannot Mount Volume&quot; &quot;Unable to mount the volume &#39;devicename&#39; &quot;Details: cannot get volume fstype.alternative&quot; En los foros de soporte se recomienda remover este paquete junto con libntfs10 y ntfs-config para solucionar el problema pero esto no soluciona el problema en la mayoría de los casos. El problema se soluciona al descargar o crear un archivo 10-ntfs-3g-policy.fdi de configuración para el driver ntfs cuyo contenido es el siguiente: [xml] &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;deviceinfo version=&quot;0.2&quot;&gt; &lt;!– mount ntfs volume with the ntfs-3g driver to enable write support –&gt; &lt;device&gt; &lt;match key=&quot;volume.fstype&quot; string=&quot;ntfs&quot;&gt; &lt;merge key=&quot;volume.fstype&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;merge key=&quot;volume.policy.mount_filesystem&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;append key=&quot;volume.mount.valid_options&quot; type=&quot;strlist&quot;&gt;locale=&lt;/append&gt; &lt;/match&gt; &lt;/device&gt; &lt;/deviceinfo&gt; [/xml] Copiamos dicho archivo a la siguiente ruta (es necesario ser root) [bash] /usr/share/hal/fdi/policy/10osvendor [/bash] Verificamos que los permisos del archivo sean los correctos [bash] -rw-r–r– 1 root root 501 Feb 28 2011 10-ntfs-3g-policy.fdi [/bash] Y por último, como root, reiniciar haldaemon: [bash] service haldaemon restart [/bash] Esto debería ser suficiente para recuperar el automontado de unidades NTFS en nuestra distro" />
+<meta property="og:description" content="Varios usuarios de PCLinuxOS (y al parecer de otros sistemas operativos GNU/Linux) han reportado que, después de las últimas actualizaciones al sistema, el montado de unidades NTFS ha dejado de funcionar. El error proviene de la más reciente actualización del paquete ntfs-3g que es el controlador encargado de dar soporte de lectura y escritura a unidades con sistema NTFS mandando el siguiente mensaje de error: &quot;Cannot Mount Volume&quot; &quot;Unable to mount the volume &#39;devicename&#39; &quot;Details: cannot get volume fstype.alternative&quot; En los foros de soporte se recomienda remover este paquete junto con libntfs10 y ntfs-config para solucionar el problema pero esto no soluciona el problema en la mayoría de los casos. El problema se soluciona al descargar o crear un archivo 10-ntfs-3g-policy.fdi de configuración para el driver ntfs cuyo contenido es el siguiente: [xml] &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;deviceinfo version=&quot;0.2&quot;&gt; &lt;!– mount ntfs volume with the ntfs-3g driver to enable write support –&gt; &lt;device&gt; &lt;match key=&quot;volume.fstype&quot; string=&quot;ntfs&quot;&gt; &lt;merge key=&quot;volume.fstype&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;merge key=&quot;volume.policy.mount_filesystem&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;append key=&quot;volume.mount.valid_options&quot; type=&quot;strlist&quot;&gt;locale=&lt;/append&gt; &lt;/match&gt; &lt;/device&gt; &lt;/deviceinfo&gt; [/xml] Copiamos dicho archivo a la siguiente ruta (es necesario ser root) [bash] /usr/share/hal/fdi/policy/10osvendor [/bash] Verificamos que los permisos del archivo sean los correctos [bash] -rw-r–r– 1 root root 501 Feb 28 2011 10-ntfs-3g-policy.fdi [/bash] Y por último, como root, reiniciar haldaemon: [bash] service haldaemon restart [/bash] Esto debería ser suficiente para recuperar el automontado de unidades NTFS en nuestra distro" />
+<link rel="canonical" href="https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/" />
+<meta property="og:url" content="https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/" />
+<meta property="og:site_name" content="Blog de Fer Perales" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-02-24T00:00:00-06:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Solución al problema de montado automático de unidades NTFS en PCLinuxOS" />
+<meta name="twitter:site" content="@FerPeralesM" />
+<meta name="twitter:creator" content="@Fer Perales" />
+<script type="application/ld+json">
+{"url":"https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/","headline":"Solución al problema de montado automático de unidades NTFS en PCLinuxOS","dateModified":"2013-02-24T00:00:00-06:00","datePublished":"2013-02-24T00:00:00-06:00","author":{"@type":"Person","name":"Fer Perales"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/"},"description":"Varios usuarios de PCLinuxOS (y al parecer de otros sistemas operativos GNU/Linux) han reportado que, después de las últimas actualizaciones al sistema, el montado de unidades NTFS ha dejado de funcionar. El error proviene de la más reciente actualización del paquete ntfs-3g que es el controlador encargado de dar soporte de lectura y escritura a unidades con sistema NTFS mandando el siguiente mensaje de error: &quot;Cannot Mount Volume&quot; &quot;Unable to mount the volume &#39;devicename&#39; &quot;Details: cannot get volume fstype.alternative&quot; En los foros de soporte se recomienda remover este paquete junto con libntfs10 y ntfs-config para solucionar el problema pero esto no soluciona el problema en la mayoría de los casos. El problema se soluciona al descargar o crear un archivo 10-ntfs-3g-policy.fdi de configuración para el driver ntfs cuyo contenido es el siguiente: [xml] &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; &lt;deviceinfo version=&quot;0.2&quot;&gt; &lt;!– mount ntfs volume with the ntfs-3g driver to enable write support –&gt; &lt;device&gt; &lt;match key=&quot;volume.fstype&quot; string=&quot;ntfs&quot;&gt; &lt;merge key=&quot;volume.fstype&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;merge key=&quot;volume.policy.mount_filesystem&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt; &lt;append key=&quot;volume.mount.valid_options&quot; type=&quot;strlist&quot;&gt;locale=&lt;/append&gt; &lt;/match&gt; &lt;/device&gt; &lt;/deviceinfo&gt; [/xml] Copiamos dicho archivo a la siguiente ruta (es necesario ser root) [bash] /usr/share/hal/fdi/policy/10osvendor [/bash] Verificamos que los permisos del archivo sean los correctos [bash] -rw-r–r– 1 root root 501 Feb 28 2011 10-ntfs-3g-policy.fdi [/bash] Y por último, como root, reiniciar haldaemon: [bash] service haldaemon restart [/bash] Esto debería ser suficiente para recuperar el automontado de unidades NTFS en nuestra distro","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/normalize-6f577f0d92c3af954ae814898365102b8be4fe59317fdcca44fe6847cb49586f.css">
+  <link rel="stylesheet" href="/assets/genericons-e3ffba19df40cea528487d5cf30ab59a7d296100a099c231d84b220361f4db71.css">
+  <link rel="stylesheet" href="/assets/main-7dd58b585e714a880f69964fcc647f08f8ca72e4f340870ee8ccc5a593616b14.css"><link type="application/atom+xml" rel="alternate" href="https://blog.ferperales.net/feed.xml" title="Blog de Fer Perales" /><script>
+if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-152914723-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+  
+</head>
+<body><header class='site-header'>
+  <a href='/'>
+    <img src='/assets/profile-eaef3155c58da7f8b1a4b23bd562994a14728ef1dfcae681faa836d8565650c5.jpg', alt='Profile Picture' class='header-image' >
+  </a>
+  <h1>Blog de Fer Perales</h1>
+  <h2 class='site-description'>Startup&Coding&Design&Music&More</h2>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-meta">
+      <time class="dt-published" datetime="2013-02-24T00:00:00-06:00" itemprop="datePublished">Feb 24, 2013
+      </time></p>
+    <h1 class="post-title p-name" itemprop="name headline">
+				Solución al problema de montado automático de unidades NTFS en PCLinuxOS		</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    				Varios usuarios de PCLinuxOS (y al parecer de otros sistemas operativos GNU/Linux) han reportado que, después de las últimas actualizaciones al sistema, el montado de unidades NTFS ha dejado de funcionar.
+
+El error proviene de la más reciente actualización del paquete ntfs-3g que es el controlador encargado de dar soporte de lectura y escritura a unidades con sistema NTFS mandando el siguiente mensaje de error:
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=431" rel="attachment wp-att-431"><img class="size-full wp-image-431 aligncenter" alt="ntfs error" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Untitled-window_090.png" width="340" height="209" /></a></p>
+<p style="text-align: center;">"Cannot Mount Volume"
+"Unable to mount the volume 'devicename'
+"Details: cannot get volume fstype.alternative"</p>
+En los foros de soporte se recomienda remover este paquete junto con libntfs10 y ntfs-config para solucionar el problema pero esto no soluciona el problema en la mayoría de los casos.
+
+El problema se soluciona al <a href="https://dl.dropbox.com/u/62125185/10-ntfs-3g-policy.fdi" target="_blank">descargar</a> o crear un archivo 10-ntfs-3g-policy.fdi de configuración para el driver ntfs cuyo contenido es el siguiente:
+
+[xml]
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;deviceinfo version=&quot;0.2&quot;&gt;
+&lt;!-- mount ntfs volume with the ntfs-3g driver to enable write support --&gt;
+    &lt;device&gt;
+        &lt;match key=&quot;volume.fstype&quot; string=&quot;ntfs&quot;&gt;
+                &lt;merge key=&quot;volume.fstype&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt;
+                &lt;merge key=&quot;volume.policy.mount_filesystem&quot; type=&quot;string&quot;&gt;ntfs-3g&lt;/merge&gt;
+                &lt;append key=&quot;volume.mount.valid_options&quot; type=&quot;strlist&quot;&gt;locale=&lt;/append&gt;
+        &lt;/match&gt;
+    &lt;/device&gt;
+&lt;/deviceinfo&gt;
+[/xml]
+
+Copiamos dicho archivo a la siguiente ruta (es necesario ser root)
+
+[bash]
+/usr/share/hal/fdi/policy/10osvendor
+[/bash]
+
+Verificamos que los permisos del archivo sean los correctos
+
+[bash]
+-rw-r--r-- 1 root root   501 Feb 28  2011 10-ntfs-3g-policy.fdi
+[/bash]
+
+Y por último, como root, reiniciar haldaemon:
+
+<a href="https://blog.ferperales.net/?attachment_id=432" rel="attachment wp-att-432"><img class=" wp-image-432 alignleft" alt="haldaemon" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Selection_091.png" width="653" height="56" /></a>
+
+[bash]
+service haldaemon restart
+[/bash]
+
+Esto debería ser suficiente para recuperar el automontado de unidades NTFS en nuestra distro
+
+  </div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/';
+      this.page.identifier = 'https://blog.ferperales.net/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://ferperalesnet.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/2013/02/solucion-al-problema-de-montado-automatico-de-unidades-ntfs-en-pclinuxos/" hidden></a>
+</article>
+
+      </div>
+    </main><footer>
+  <div class='social-footer'>
+    <ul class='undecorated-list social-list'>
+      <li >
+        <a href="https://www.facebook.com/ferperalesm/" class="genericon genericon-facebook" target="_blank">
+          <span class="screen-reader-text">View ferperalesm’s profile on Facebook</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/ferperalesm/" class="genericon genericon-twitter" target="_blank">
+          <span class="screen-reader-text">View ferperalesm’s profile on Twitter</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/ferperales/" class="genericon genericon-instagram" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on Instagram</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/ferperales/" class="genericon genericon-linkedin" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on LinkedIn</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/ferperales/" class="genericon genericon-github" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on GitHub</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class='personal-links site-footer'>
+    <div>
+      <a class=' undecorated-link padded-link' target='_blank' href='http://ferperales.net'>Página personal</a>
+      <a class=' undecorated-link padded-link' target='_blank' href='http://ferperales.net/contact'>Contáctame</a>
+    </div>
+    <div class='credits undecorated-link'>
+      Theme based on Wordpress theme Fastr by Kanish
+    </div>
+    
+      
+    
+  </div>
+
+</footer>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+    
+
+  </body>
+
+</html>

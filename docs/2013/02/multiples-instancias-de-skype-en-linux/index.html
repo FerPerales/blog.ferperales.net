@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es_MX"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Múltiples instancias de Skype en Linux | Blog de Fer Perales</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Múltiples instancias de Skype en Linux" />
+<meta name="author" content="Fer Perales" />
+<meta property="og:locale" content="es_MX" />
+<meta name="description" content="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=373&quot; rel=&quot;attachment wp-att-373&quot;&gt;&lt;img class=&quot;size-full wp-image-373 aligncenter&quot; alt=&quot;skype-logo-groot&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/02/skype-logo-groot.jpg&quot; width=&quot;225&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt; A veces nos vemos en la necesidad de utilizar varias cuentas de manera simultanea de este cliente de mensajería cosa que es muy fácil de lograr en nuestra distribución de Linux favorita. Pondré los pasos para PCLinuxOS con entorno de escritorio LXDE pero los pasos deben de ser similares en cualquier distribución. Como siempre, esto se puede realizar mediante la terminal o la interfaz gráfica y lo haré con la interfaz: En nuestro explorador de archivos (que en LXDE es PCManFM) abrimos la carpeta del usuario actual y seleccionamos View &gt; Show Hidden Skype guarda todos los datos de configuración en una carpeta oculta llamada .Skype Copiamos esa carpeta en la misma ubicación y la renombramos Después creamos un acceso directo a Skype en nuestro escritorio Y agregamos a la ruta del archivo ejecutable lo siguiente [bash]skype –dbpath=~/.carpeta_configuracion[/bash] Donde .carpeta_configuracion es el nombre de la carpeta que acabamos de crear ¡Listo! Ya podemos tener dos cuentas de Skype abiertas al mismo tiempo" />
+<meta property="og:description" content="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=373&quot; rel=&quot;attachment wp-att-373&quot;&gt;&lt;img class=&quot;size-full wp-image-373 aligncenter&quot; alt=&quot;skype-logo-groot&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/02/skype-logo-groot.jpg&quot; width=&quot;225&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt; A veces nos vemos en la necesidad de utilizar varias cuentas de manera simultanea de este cliente de mensajería cosa que es muy fácil de lograr en nuestra distribución de Linux favorita. Pondré los pasos para PCLinuxOS con entorno de escritorio LXDE pero los pasos deben de ser similares en cualquier distribución. Como siempre, esto se puede realizar mediante la terminal o la interfaz gráfica y lo haré con la interfaz: En nuestro explorador de archivos (que en LXDE es PCManFM) abrimos la carpeta del usuario actual y seleccionamos View &gt; Show Hidden Skype guarda todos los datos de configuración en una carpeta oculta llamada .Skype Copiamos esa carpeta en la misma ubicación y la renombramos Después creamos un acceso directo a Skype en nuestro escritorio Y agregamos a la ruta del archivo ejecutable lo siguiente [bash]skype –dbpath=~/.carpeta_configuracion[/bash] Donde .carpeta_configuracion es el nombre de la carpeta que acabamos de crear ¡Listo! Ya podemos tener dos cuentas de Skype abiertas al mismo tiempo" />
+<link rel="canonical" href="https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/" />
+<meta property="og:url" content="https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/" />
+<meta property="og:site_name" content="Blog de Fer Perales" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-02-12T00:00:00-06:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Múltiples instancias de Skype en Linux" />
+<meta name="twitter:site" content="@FerPeralesM" />
+<meta name="twitter:creator" content="@Fer Perales" />
+<script type="application/ld+json">
+{"url":"https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/","headline":"Múltiples instancias de Skype en Linux","dateModified":"2013-02-12T00:00:00-06:00","datePublished":"2013-02-12T00:00:00-06:00","author":{"@type":"Person","name":"Fer Perales"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/"},"description":"&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=373&quot; rel=&quot;attachment wp-att-373&quot;&gt;&lt;img class=&quot;size-full wp-image-373 aligncenter&quot; alt=&quot;skype-logo-groot&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/02/skype-logo-groot.jpg&quot; width=&quot;225&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt; A veces nos vemos en la necesidad de utilizar varias cuentas de manera simultanea de este cliente de mensajería cosa que es muy fácil de lograr en nuestra distribución de Linux favorita. Pondré los pasos para PCLinuxOS con entorno de escritorio LXDE pero los pasos deben de ser similares en cualquier distribución. Como siempre, esto se puede realizar mediante la terminal o la interfaz gráfica y lo haré con la interfaz: En nuestro explorador de archivos (que en LXDE es PCManFM) abrimos la carpeta del usuario actual y seleccionamos View &gt; Show Hidden Skype guarda todos los datos de configuración en una carpeta oculta llamada .Skype Copiamos esa carpeta en la misma ubicación y la renombramos Después creamos un acceso directo a Skype en nuestro escritorio Y agregamos a la ruta del archivo ejecutable lo siguiente [bash]skype –dbpath=~/.carpeta_configuracion[/bash] Donde .carpeta_configuracion es el nombre de la carpeta que acabamos de crear ¡Listo! Ya podemos tener dos cuentas de Skype abiertas al mismo tiempo","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/normalize-6f577f0d92c3af954ae814898365102b8be4fe59317fdcca44fe6847cb49586f.css">
+  <link rel="stylesheet" href="/assets/genericons-e3ffba19df40cea528487d5cf30ab59a7d296100a099c231d84b220361f4db71.css">
+  <link rel="stylesheet" href="/assets/main-7dd58b585e714a880f69964fcc647f08f8ca72e4f340870ee8ccc5a593616b14.css"><link type="application/atom+xml" rel="alternate" href="https://blog.ferperales.net/feed.xml" title="Blog de Fer Perales" /><script>
+if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-152914723-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+  
+</head>
+<body><header class='site-header'>
+  <a href='/'>
+    <img src='/assets/profile-eaef3155c58da7f8b1a4b23bd562994a14728ef1dfcae681faa836d8565650c5.jpg', alt='Profile Picture' class='header-image' >
+  </a>
+  <h1>Blog de Fer Perales</h1>
+  <h2 class='site-description'>Startup&Coding&Design&Music&More</h2>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-meta">
+      <time class="dt-published" datetime="2013-02-12T00:00:00-06:00" itemprop="datePublished">Feb 12, 2013
+      </time></p>
+    <h1 class="post-title p-name" itemprop="name headline">
+				Múltiples instancias de Skype en Linux		</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    				<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=373" rel="attachment wp-att-373"><img class="size-full wp-image-373 aligncenter" alt="skype-logo-groot" src="https://blog.ferperales.net/wp-content/uploads/2013/02/skype-logo-groot.jpg" width="225" height="225" /></a></p>
+A veces nos vemos en la necesidad de utilizar varias cuentas de manera simultanea de este cliente de mensajería cosa que es muy fácil de lograr en nuestra distribución de Linux favorita.
+
+Pondré los pasos para PCLinuxOS con entorno de escritorio LXDE pero los pasos deben de ser similares en cualquier distribución. Como siempre, esto se puede realizar mediante la terminal o la interfaz gráfica y lo haré con la interfaz:
+
+En nuestro explorador de archivos (que en LXDE es PCManFM) abrimos la carpeta del usuario actual y seleccionamos View &gt; Show Hidden
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=375" rel="attachment wp-att-375"><img class="size-full wp-image-375 aligncenter" alt="Menu_083" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Menu_083.png" width="225" height="221" /></a></p>
+Skype guarda todos los datos de configuración en una carpeta oculta llamada .Skype
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=376" rel="attachment wp-att-376"><img class="size-full wp-image-376 aligncenter" alt="Selection_084" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Selection_084.png" width="78" height="79" /></a></p>
+Copiamos esa carpeta en la misma ubicación y la renombramos
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=377" rel="attachment wp-att-377"><img class="size-full wp-image-377 aligncenter" alt="Selection_085" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Selection_085.png" width="171" height="85" /></a></p>
+Después creamos un acceso directo a Skype en nuestro escritorio
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=378" rel="attachment wp-att-378"><img class="size-full wp-image-378 aligncenter" alt="Selection_086" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Selection_086.png" width="103" height="87" /></a></p>
+Y agregamos a la ruta del archivo ejecutable lo siguiente
+
+[bash]skype --dbpath=~/.carpeta_configuracion[/bash]
+
+Donde .carpeta_configuracion es el nombre de la carpeta que acabamos de crear
+
+¡Listo! Ya podemos tener dos cuentas de Skype abiertas al mismo tiempo
+<p style="text-align: center;"><a href="https://blog.ferperales.net/?attachment_id=380" rel="attachment wp-att-380"><img class=" wp-image-380 aligncenter" alt="Selection_087" src="https://blog.ferperales.net/wp-content/uploads/2013/02/Selection_0871.png" width="778" height="597" /></a></p>
+
+  </div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/';
+      this.page.identifier = 'https://blog.ferperales.net/2013/02/multiples-instancias-de-skype-en-linux/';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://ferperalesnet.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/2013/02/multiples-instancias-de-skype-en-linux/" hidden></a>
+</article>
+
+      </div>
+    </main><footer>
+  <div class='social-footer'>
+    <ul class='undecorated-list social-list'>
+      <li >
+        <a href="https://www.facebook.com/ferperalesm/" class="genericon genericon-facebook" target="_blank">
+          <span class="screen-reader-text">View ferperalesm’s profile on Facebook</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/ferperalesm/" class="genericon genericon-twitter" target="_blank">
+          <span class="screen-reader-text">View ferperalesm’s profile on Twitter</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/ferperales/" class="genericon genericon-instagram" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on Instagram</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/ferperales/" class="genericon genericon-linkedin" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on LinkedIn</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/ferperales/" class="genericon genericon-github" target="_blank">
+          <span class="screen-reader-text">View ferperales’s profile on GitHub</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class='personal-links site-footer'>
+    <div>
+      <a class=' undecorated-link padded-link' target='_blank' href='http://ferperales.net'>Página personal</a>
+      <a class=' undecorated-link padded-link' target='_blank' href='http://ferperales.net/contact'>Contáctame</a>
+    </div>
+    <div class='credits undecorated-link'>
+      Theme based on Wordpress theme Fastr by Kanish
+    </div>
+    
+      
+    
+  </div>
+
+</footer>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+    
+
+  </body>
+
+</html>

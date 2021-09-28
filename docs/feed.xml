@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_MX"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://blog.ferperales.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.ferperales.net/" rel="alternate" type="text/html" hreflang="es_MX" /><updated>2021-09-27T20:24:30-05:00</updated><id>https://blog.ferperales.net/feed.xml</id><title type="html">Blog de Fer Perales</title><subtitle>Startup&amp;Coding&amp;Design&amp;Music&amp;More</subtitle><author><name>Fer Perales</name></author><entry><title type="html">El camino hacia la inmortalidad</title><link href="https://blog.ferperales.net/2021/09/el-camino-hacia-la-inmortalidad/" rel="alternate" type="text/html" title="El camino hacia la inmortalidad" /><published>2021-09-27T00:00:00-05:00</published><updated>2021-09-27T00:00:00-05:00</updated><id>https://blog.ferperales.net/2021/09/el-camino-hacia-la-inmortalidad</id><content type="html" xml:base="https://blog.ferperales.net/2021/09/el-camino-hacia-la-inmortalidad/">&lt;p&gt;Si bien es cierto que, hasta la fecha, todos los seres humanos tenemos una fecha de expiración, no dejamos de dedicar esfuerzos para intentar
+lograr la inmortalidad.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La idea de inmortalidad es considerada entre algunos filósofos como la respuesta a la angustia y al miedo que produce en el ser humano la conciencia de su mortalidad y contingencia. Ese ansia crearía y desarrollaría el concepto de inmortalidad; y constituiría además el núcleo de la antropología de la religión&lt;sup&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Inmortalidad&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Para la religión, la vida eterna es la promesa de Dios para los humanos que siguen la ley divina. Otras religiones profesan la reencarnación, donde nos refinamos de manera progresiva a través de varias vidas. También la filosofía y la ciencia han abordado el tema desde diferentes puntos de vista pero lo cierto es que la pregunta sigue sin tener una respuesta contundente: ¿es posible ser inmortal?&lt;/p&gt;
+
+&lt;p&gt;Quizá no estamos lejos de lograr la inmortalidad física, pero en pleno siglo XXI, las religiones siguen hablando sobre las enseñanzas de los grandes profetas de la antigüedad, los filósofos siguen discutiendo sobre Platón y su académia, Da Vinci sigue siendo el polímata por excelencia, El Arte de la Guerra por Sun Tzu sigue siendo estudiado a pesar de haber sido publicado en el siglo V, la filosofía de enseñanza creada por Maria Montessori sigue tan vigente como en sus inicios y el sistema de combate creado por Imi Lichtenfeld, conocido como Krav Magá, se sigue enseñando alrededor del mundo en diversad academias de defensa personal.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+  &lt;img src=&quot;/assets/images/2021/09/academia_de_platon.jpeg&quot; alt=&quot;La Academia de Platón&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Todas estas personas, a pesar de haber fallecido, han logrado la inmortalidad a través de su legado; de generar y compartir conocimiento.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+Share your knowledge. It is a way to achieve immortality
+&lt;/blockquote&gt;
+&lt;figcaption&gt;Dalai Lama XIV&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr class=&quot;entry-separator&quot; /&gt;
+
+&lt;p&gt;Es grato seguir teniendo contacto con personas a las que ayudé en sus inicios en el mundo de la programación y saber que hemos
+forjado un lazo estrecho más allá de la relación mentor-estudiante.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+  &lt;img src=&quot;/assets/images/2021/09/rgsoc.jpg&quot; alt=&quot;Rails Girls Summer of Code 2015: seis años después&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;De todas las actividades que realicé en &lt;a href=&quot;https://michelada.io&quot;&gt;michelada.io&lt;/a&gt; durante los últimos cuatro años y tres meses,
+la que más disfruté es haber coordinado el programa de Padawans en el path de desarrollo, labor que realicé para dos generaciones.&lt;/p&gt;
+
+&lt;p&gt;En su momento, ya &lt;a href=&quot;https://sipsandbits.com/2021/06/17/the-padawan-path/&quot;&gt;describí&lt;/a&gt; el proceso de selección y el contenido del programa así que, no ahondaré en detalles en esta publicación.&lt;/p&gt;
+
+&lt;p&gt;Mis últimos dias en la empresa, los pasé coordinando el cierre del programa de padawans generación 2021, donde seis personas de diversas partes de la república iniciaron su carrera profesional en desarrollo web con Ruby on Rails.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+  &lt;img src=&quot;/assets/images/2021/09/padawans.jpg&quot; alt=&quot;Padawans 2021&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La semana pasada, presentaron su proyecto final para poner cierre a la generación de este año.
+También aproveché para cerrar un ciclo en michelada.io y buscar nuevos retos.&lt;/p&gt;
+
+&lt;p&gt;Estoy muy feliz por la evolución del programa y sé que, a pesar de que ya no estaré a cargo del mismo, los cimientos que desarrollé ayudarán a brindar una mejor
+experiencia a las futuras generaciones.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    When someone asks why anyone would ever become a teacher, remind them why it's worth it: every job has its ups and downs, but not every job
+    can &lt;b&gt;change a life&lt;/b&gt;
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;Desconocido&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nunca dejen pasar la oportunidad de compartir el conocimiento con alguien más: con ello, están construyendo un pequeño escalón rumbo a la cima de la inmortalidad.&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">Si bien es cierto que, hasta la fecha, todos los seres humanos tenemos una fecha de expiración, no dejamos de dedicar esfuerzos para intentar lograr la inmortalidad. La idea de inmortalidad es considerada entre algunos filósofos como la respuesta a la angustia y al miedo que produce en el ser humano la conciencia de su mortalidad y contingencia. Ese ansia crearía y desarrollaría el concepto de inmortalidad; y constituiría además el núcleo de la antropología de la religión1</summary></entry><entry><title type="html">Define tus valores fundamentales</title><link href="https://blog.ferperales.net/2019/11/define-tus-valores-fundamentales/" rel="alternate" type="text/html" title="Define tus valores fundamentales" /><published>2019-11-22T00:00:00-06:00</published><updated>2019-11-22T00:00:00-06:00</updated><id>https://blog.ferperales.net/2019/11/define-tus-valores-fundamentales</id><content type="html" xml:base="https://blog.ferperales.net/2019/11/define-tus-valores-fundamentales/">&lt;p&gt;Hace algunos meses, completé el reto de &lt;a href=&quot;https://www.artofmanliness.com/articles/30-days-to-a-better-man-wrap-up/&quot;&gt;30 days to be a better
+man&lt;/a&gt; y, de todas las tareas que
+realicé, la primera ha sido la que más ha tenido influencia en mi forma de pensar. Esta tarea se trata de,
+como el título de esta publicación lo revela, &lt;a href=&quot;https://www.artofmanliness.com/articles/30-days-to-a-better-man-day-1-define-your-core-values/&quot;&gt;definir nuestros valores
+fundamentales&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;la-importancia-de-definir-nuestros-valores-fundamentales&quot;&gt;La importancia de definir nuestros valores fundamentales&lt;/h2&gt;
+
+&lt;p&gt;La publicación original menciona los siguientes puntos:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nos da propósito:&lt;/strong&gt; cuando no tenemos nuestros valores fundamentales definidos, estaremos a la
+deriva por la vida. En vez de tomar nuestras decisiones basados en nuestra brújula interna,
+las tomamos basados en las circunstancias y la presión social. Terminamos tratando de satisfacer
+las expectaciones de otras personas en lugar de las nuestras. Y antes de que te des cuenta, la
+vida ha pasado y no has comenzado a vivir. Intentar ser alguien mas y vivir sin valores
+fundamentales es agotador y nos hace sentir vacíos e indolentes. A la inversa, vivir una vida
+alineada a nuestros valores nos trae propósito, dirección, felicidad y un sentimiento de
+integridad.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evita que tomemos malas decisiones:&lt;/strong&gt; quizá tienes una idea vaga sobre tus valores pero, si no los
+has definido claramente, puedes terminar tomando decisiones que entrar en conflicto con ellos.
+Cuando nuestras acciones conflictúan con nuestros valores, el resultados es infelicidad y
+frustración.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nos da confianza:&lt;/strong&gt; Cuando nos tomamos el tiempo para realmente pensar y analizar las cosas que
+valoramos y luego las escribimos, es más probable que tengamos el valor y la confianza para tomar
+decisiones basados en esos valores. Hay algo en el hecho de escribirlos que nos hace estar más
+comprometidos a vivir alineados a ellos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hace nuestra vida más simple:&lt;/strong&gt; La toma de decisiones se vuelve más fácil cuando estamos seguros
+de nuestros valores fundamentales. Cuando tenemos que tomar una decisión, simplemente nos
+preguntamos: ¿Esta acción se alínea con mis valores? Si sí, la realizamos y, si no, pues no. En
+lugar de angustiarnos sobre cuál es la mejor elección y titubear en tiempos de crisis, simplemente
+dejamos que nuestra brújula interna nos guíe.&lt;/p&gt;
+
+&lt;h2 id=&quot;cuáles-son-mis-cinco-valores-fundamentales&quot;&gt;¿Cuáles son mis cinco valores fundamentales?&lt;/h2&gt;
+
+&lt;hr class=&quot;entry-separator&quot; /&gt;
+
+&lt;h3 id=&quot;independencia&quot;&gt;Independencia&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    It's so important to have that independence. You know it yourself: Everyone needs evenings of their own.
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;Olivia Wilde&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Mi entendimiento de la independencia conlleva el tener confianza en ti mismo, desear adquirir
+habilidades y experiencias para tener mayor control sobre tu vida y arriesgaste a fracasar en la
+realización de nuevas tareas para obtener la experiencia fundamental para dominarlas e incrementar
+tu grado de independencia.&lt;/p&gt;
+
+&lt;h3 id=&quot;altruísmo&quot;&gt;Altruísmo&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    Altruism is the best source of happiness. There is no doubt about that.
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;Dalai Lama&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Creo que, cuando te conviertes en adulto, debes hacer las cosas porque son correctas y están bien, y porque tu
+deseo de servir a otros supera tu propia comodidad y de eso trata el altruismo: procurar el bien de las otras
+personas de manera desinteresada&lt;/p&gt;
+
+&lt;h3 id=&quot;liderazgo&quot;&gt;Liderazgo&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;John Quincy Adams&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;El sentido de liderazgo implica ser una persona digna de admiración y respeto al grado de que los demás
+consideran tu influencia de manera positiva y confían en tus decisiones y consejos para lograr los objetivos
+establecidos. Un líder conoce las fortalezas y limitaciones de su equipo y sabe las acciones
+necesarias para llevarlas al éxito.&lt;/p&gt;
+
+&lt;h3 id=&quot;sabiduría&quot;&gt;Sabiduría&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    Wisdom is to live in the present, plan for the future and profit from the past.
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;Jacob Braude&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Considero que la sabiduría va de la mano con la justicia y el saber reconocer los resultados de nuestras
+acciones. Como ya lo dijo el Poeta inglés Robert John Arthur Halford, &lt;a href=&quot;https://www.youtube.com/watch?v=0y6Qev04QyQ&quot;&gt;no necesitas ser viejo para ser
+sabio&lt;/a&gt;. La sabiduría se obtiene mediante la experiencia
+propia y ajena. Una persona sabia siempre va varios pasos adelante.&lt;/p&gt;
+
+&lt;h3 id=&quot;autodisciplina&quot;&gt;Autodisciplina&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;blockquote cite=&quot;https://developer.mozilla.org/samples/html/figure.html&quot;&gt;
+    Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.
+  &lt;/blockquote&gt;
+  &lt;figcaption&gt;George Washington&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;¿Te imaginas todo lo que podrías lograr con autodisciplina?
+Una persona sin autodisciplina es como un barco sin rumbo. La autodisciplina nos permite alcanzar
+nuestro máximo potencial y nos obliga a enfocarnos en las acciones que nos acercan a nuestros
+objetivos ignorando toda distracción.&lt;/p&gt;
+
+&lt;hr class=&quot;entry-separator&quot; /&gt;
+
+&lt;p&gt;Te recomiendo dedicar parte de tu fin de semana a realizar este ejercicio y compartir en los
+comentarios cuáles son tus valores fundamentales y por qué.&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">Hace algunos meses, completé el reto de 30 days to be a better man y, de todas las tareas que realicé, la primera ha sido la que más ha tenido influencia en mi forma de pensar. Esta tarea se trata de, como el título de esta publicación lo revela, definir nuestros valores fundamentales.</summary></entry><entry><title type="html">Mis cinco accesorios indispensables para viajar</title><link href="https://blog.ferperales.net/2019/10/mis-cinco-accesorios-indispensables-par-viajar/" rel="alternate" type="text/html" title="Mis cinco accesorios indispensables para viajar" /><published>2019-10-31T00:00:00-06:00</published><updated>2019-10-31T00:00:00-06:00</updated><id>https://blog.ferperales.net/2019/10/mis-cinco-accesorios-indispensables-par-viajar</id><content type="html" xml:base="https://blog.ferperales.net/2019/10/mis-cinco-accesorios-indispensables-par-viajar/">&lt;p&gt;Tenía algo de tiempo libre en el aeropuerto esperando un vuelo a Oaxaca para pasar las festividades de día de muertos allá y se me ocurrió enlistar los cinco accesorios que no pueden faltar en mi equipaje al viajar.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;hydrapak-stash--750-ml&quot;&gt;HydraPak Stash  750 ml.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019/10/stash-750.jpg&quot; alt=&quot;HydraPak Stash 750 ml.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mantenerse hidratado durante el viaje es importante. Había probado varias botellas antes de encontrarme con la HydraPak y definitivamente me quedo con esta. El hecho de que se puede plegar lo hace muy conveniente cuando está vacía y se puede guardar en cualquier parte del equipaje.&lt;/p&gt;
+
+&lt;p&gt;Actualmente tengo la versión de 750 ml., pero la cambiaré por la de mayor capacidad&lt;/p&gt;
+
+&lt;p&gt;Puedes comprarlo &lt;a href=&quot;https://hydrapak.com/shop/flexible-water-bottles/stash-750-ml&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kablecard&quot;&gt;KableCard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019/10/kablecard.jpg&quot; alt=&quot;KableCard KC7-B&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El formato de tarjeta lo hace práctico y es parte indispensable de mi vida cotidiana. Cuenta con un pequeño cable USB-C y adaptadores para microUSB, lightning y USB-A que puedes combinar para cargar prácticamente cualquier dispositivo. También cuenta con dos ranuras para tarjeta nanoSIM y la herramienta para extraerlos, lector de microSD y lámpara. Por si fuera poco,  también funciona como soporte para nuestros equipos y como cargador inalámbrico.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprarlo &lt;a href=&quot;https://www.elvesfactory.com/worldshop/EN/CARD/KC7-B&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mogics-bagel&quot;&gt;Mogics Bagel&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019/10/bagel.jpg&quot; alt=&quot;Mogics Bagel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Este aparato no solo funciona como una extensión portátil: también permite conectar 4 dispositivos sin importar el tipo de toma de corriente y dos dispositivos USB. Al centro contiene un adaptador de toma de corriente universal.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprarlo &lt;a href=&quot;https://www.elvesfactory.com/worldshop/EN/MOGICS/MogicsPower/MPB-AW&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rothco-multi-use-tactical-wrap&quot;&gt;Rothco Multi-Use Tactical Wrap&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019/10/rothco-wrap.jpg&quot; alt=&quot;Rothco Wrap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una bufanda circular es bastante útil debido a la cantidad de usos que se le puede dar: banda para el sudor, sujetador de cabello, bufanda, protector solar, gorro y balaclava entre otros.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprarlo &lt;a href=&quot;https://www.rothco.com/product/rothco-multi-use-tactical-wrap&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;imuto-portable-charger-30000-mah&quot;&gt;iMuto Portable Charger 30000 mAh&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019/10/imuto-power-back.jpg&quot; alt=&quot;iMuto Power Bank&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El cargador con mayor capacidad que encontré en su momento. Con 30,000 mAh, funciona para cargar completamente hasta 6 veces mi Pixel 3. Contiene dos salidas USB (una de ellas para carga rápida) y una salida USB-C. Se puede cargar usando esa misma entrada USB-C o contiene el clásico microSD.&lt;/p&gt;
+
+&lt;p&gt;La desventaja es el tamaño y el peso, pero para viajes donde estarás varios días sin acceso a una toma de corriente, las ventajas superan con creces el inconveniente del peso.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprarlo &lt;a href=&quot;https://www.amazon.com/Portable-30000mAh-Qualcomm-External-Nintendo/dp/B01MXCMGB8/ref=pd_sbs_107_t_1/130-4648010-9124410&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">Tenía algo de tiempo libre en el aeropuerto esperando un vuelo a Oaxaca para pasar las festividades de día de muertos allá y se me ocurrió enlistar los cinco accesorios que no pueden faltar en mi equipaje al viajar.</summary></entry><entry><title type="html">La guía técnica del nómada digital (parte II)</title><link href="https://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/" rel="alternate" type="text/html" title="La guía técnica del nómada digital (parte II)" /><published>2016-04-13T00:00:00-05:00</published><updated>2016-04-13T00:00:00-05:00</updated><id>https://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii</id><content type="html" xml:base="https://blog.ferperales.net/2016/04/la-guia-tecnica-del-nomada-digital-parte-ii/">&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-30-09.50.17-1024x576.jpg&quot; alt=&quot;Estación de trabajo temporal en Colima&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el post anterior hablamos sobre los fundamentos de ergonomía que debemos considerar al trabajar por tiempo prolongado en la computadora y cómo una base para laptop nos ayuda a adoptar una mejor postura frente al equipo.&lt;/p&gt;
+
+&lt;p&gt;En este post toca hablar sobre los periféricos más básicos para poder trabajar de manera cómoda: el mouse y el teclado.&lt;/p&gt;
+
+&lt;h2 id=&quot;mouse&quot;&gt;Mouse&lt;/h2&gt;
+
+&lt;p&gt;A menos que seamos gamers o que desempeñemos alguna actividad que requiere precisión con el puntero, creo que es el componente de trabajo al que menos solemos ponerle atención.&lt;/p&gt;
+
+&lt;p&gt;Mi primera opción fue el mouse de Mac, pero la ausencia de botones físicos y su horrible reemplazo de scroll (si, lo siento, no puedo bajar a esa “ruedita” de horrible) hizo que ni siquiera pudiera usarlo como mouse de uso cotidiano y pues mucho menos considerarlo para viaje.&lt;/p&gt;
+
+&lt;p&gt;Después compre un Razer Naga 2014 pensando en mis, en ese entonces, largas sesiones de jugar DotA 2. No tengo queja alguna con el mouse: con sus doce botones laterales accesibles con el pulgar que son 100% configurables, ofrece bastante flexibilidad a la hora de programar macros no solo a la hora de jugar sino cuando trabajamos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-05-09.03.58-1024x576.jpg&quot; alt=&quot;Razer Naga 2014&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El tamaño es grande, pero eso no es inconveniente para alguien con manos grandes como yo. El único inconveniente para utilizarlo como mi mouse de viaje es el tamaño y el peso.&lt;/p&gt;
+
+&lt;p&gt;Hace poco mas de un año compré un mouse marca Aztec Warrior en Linio y que, hasta la fecha, sigue siendo mi mouse para viaje.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.21.29-576x1024.jpg&quot; alt=&quot;Aztec Warrior&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Además del tamaño y el peso, otra cosa a considerar a la hora de comprar un mouse para viaje es si elegir uno inalámbrico o uno tradicional. En mi opinion, un mouse alámbrico nos quitaría la preocupación de, entre tanto viaje, perder el receptor y dejar nuestro mouse prácticamente inusable.&lt;/p&gt;
+
+&lt;p&gt;Me gustaría probar un trackpad de Apple, pero estoy un poco preocupado por el posible bajo rendimiento de la batería y la compatibilidad con sistemas operativos Linux, pero prometo probarlo en cuanto se presente la oportunidad y actualizar la publicación.&lt;/p&gt;
+
+&lt;h2 id=&quot;teclado&quot;&gt;Teclado&lt;/h2&gt;
+
+&lt;p&gt;Como ya lo había comentado, en casa uso un Steelseries Apex que, a pesar de no ser un teclado mecánico, ofrece un muy buen tacto a comparación de los teclados de membrana comerciales. También, como ya lo había mencionado, el tamaño es el peor inconveniente para usarlo como teclado de viaje ya que es un teclado de 110 teclas más las teclas de macro del lado izquierdo más las teclas multimedia del lado derecho a un lado del teclado numérico. No solo no cabe en mi maletín, sino que tampoco cabe en mi mochila.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-06-09.26.47-1024x576.jpg&quot; alt=&quot;Steelseries Apex&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hablaremos más a detalle sobre cómo transportar nuestro equipo en la última parte de esta serie.&lt;/p&gt;
+
+&lt;p&gt;Antes de entrar a detalle con opciones de teclado, cabe mencionar que uno de los principales factores a tomar en cuenta a la hora de elegir un teclado de viaje es el tamaño que viene dado por el layout o distribución de teclas.&lt;/p&gt;
+
+&lt;p&gt;Hay tres grandes categorías en los teclados:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Teclados completos: tienen teclado numérico y teclas de función dedicadas. Es la distribución más usada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/100.png&quot; alt=&quot;Teclado completo&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Teclados 80% o tenkeyless: sin teclado numérico, pero tiene teclas de función dedicadas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/60.png&quot; alt=&quot;Teclado 80%&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Teclados 60% o mini: sin teclado numérico ni teclas de función dedicadas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/80.png&quot; alt=&quot;Teclado 60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pensando en la portabilidad, use por un tiempo un teclado Logitech K410 que parecía perfecto ya que, al estar pensado para usarse en la sala conectado a televisores, es inalámbrico, muy compacto y tiene un trackpad integrado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.52.56-1024x576.jpg&quot; alt=&quot;Logitech K410&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El problema con dicho teclado es su distribución: ya que logitech quizo meter muchas teclas en una superficie tan pequeña, las teclas son más pequeñas de lo normal lo que propicia muchos errores incluso al usarlo de manera prolongada. El teclado no es malo cumpliendo su propósito original: usarse en la sala conectado a una computadora o a un televisor, pero como teclado para programar es terriblemente malo.&lt;/p&gt;
+
+&lt;p&gt;Hace dos meses comencé a echarle el ojo a algunos teclados mecánicos que me habían recomendado y la búsqueda se redujo a dos opciones: KBParadise V60 y Code Keyboard.&lt;/p&gt;
+
+&lt;p&gt;El KBParadise V60 es un teclado mecánico 60% con iluminación en dos colores que se pueden alternar entre rojo, azul y verde según el modelo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/v60.jpg&quot; alt=&quot;KBParadise V60&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Code Keyboard viene en dos presentaciones: teclado completo o teclado 80% teclas. Me decidí por probar la versión 80%.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-12-23.57.07-1024x576.jpg&quot; alt=&quot;CODE keyboard 80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es un teclado cómodo y se ve muy elegante gracias a la retroiluminación provista por los led blancos. Otro punto a favor es la ubicación de las teclas multimedia en el área superior de las feclas de dirección, mismas que son accesibles a través de la tecla de Fn.&lt;/p&gt;
+
+&lt;p&gt;He estado utilizando el Code Keyboard de manera regular y vale la pena cargar el peso adicional por la comodidad que brinda. También he estado tentado a reemplazar mi Steelseries Apex por este como teclado principal y conseguir el KBParaside V60 para usarlo como teclado de viaje, pero es un cambio que no tengo pensado realizar en el corto plazo.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-complemento-ideal&quot;&gt;El complemento ideal&lt;/h2&gt;
+
+&lt;p&gt;Ultimamente he estado utilizando unas almohadillas para descansar las muñecas mientras trabajo y la diferencia es brutal: al levantar la muñeca de posición, se ejerce menos tension en la misma, logrando con eso trabajar de manera más cómoda y sufrir menos los dolores característicos al usar el teclado y el mouse de manera prolongada, reduciendo con esto la posibilidad de reducir una de las enfermedades que más aquejan a las personas que pasamos mucho tiempo en la computadora: el síndrome del túnel carpiano.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-04-13-00.07.12-1024x576.jpg&quot; alt=&quot;Almohadillas Grifiti 14 (arriba, para teclado 80%) y 8 (abajo, para mouse)&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
+
+&lt;p&gt;Hemos cubierto de manera breve lo que necesitamos considerar al adquirir los gadgets que nos acompañarán en nuestra vida de nómada digital.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/04/2016-03-17-07.00.13-1024x576.jpg&quot; alt=&quot;Estación de trabajo temporal en Colombia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el siguiente post de esta serie, nos enfocaremos en los cables y conectores así como en una forma práctica de mantener todo en su lugar en nuestras maletas.&lt;/p&gt;
+
+&lt;p&gt;¡Saludos y felices viajes!&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">En el post anterior hablamos sobre los fundamentos de ergonomía que debemos considerar al trabajar por tiempo prolongado en la computadora y cómo una base para laptop nos ayuda a adoptar una mejor postura frente al equipo. En este post toca hablar sobre los periféricos más básicos para poder trabajar de manera cómoda: el mouse y el teclado. Mouse A menos que seamos gamers o que desempeñemos alguna actividad que requiere precisión con el puntero, creo que es el componente de trabajo al que menos solemos ponerle atención. Mi primera opción fue el mouse de Mac, pero la ausencia de botones físicos y su horrible reemplazo de scroll (si, lo siento, no puedo bajar a esa “ruedita” de horrible) hizo que ni siquiera pudiera usarlo como mouse de uso cotidiano y pues mucho menos considerarlo para viaje. Después compre un Razer Naga 2014 pensando en mis, en ese entonces, largas sesiones de jugar DotA 2. No tengo queja alguna con el mouse: con sus doce botones laterales accesibles con el pulgar que son 100% configurables, ofrece bastante flexibilidad a la hora de programar macros no solo a la hora de jugar sino cuando trabajamos. El tamaño es grande, pero eso no es inconveniente para alguien con manos grandes como yo. El único inconveniente para utilizarlo como mi mouse de viaje es el tamaño y el peso. Hace poco mas de un año compré un mouse marca Aztec Warrior en Linio y que, hasta la fecha, sigue siendo mi mouse para viaje. Además del tamaño y el peso, otra cosa a considerar a la hora de comprar un mouse para viaje es si elegir uno inalámbrico o uno tradicional. En mi opinion, un mouse alámbrico nos quitaría la preocupación de, entre tanto viaje, perder el receptor y dejar nuestro mouse prácticamente inusable. Me gustaría probar un trackpad de Apple, pero estoy un poco preocupado por el posible bajo rendimiento de la batería y la compatibilidad con sistemas operativos Linux, pero prometo probarlo en cuanto se presente la oportunidad y actualizar la publicación. Teclado Como ya lo había comentado, en casa uso un Steelseries Apex que, a pesar de no ser un teclado mecánico, ofrece un muy buen tacto a comparación de los teclados de membrana comerciales. También, como ya lo había mencionado, el tamaño es el peor inconveniente para usarlo como teclado de viaje ya que es un teclado de 110 teclas más las teclas de macro del lado izquierdo más las teclas multimedia del lado derecho a un lado del teclado numérico. No solo no cabe en mi maletín, sino que tampoco cabe en mi mochila. Hablaremos más a detalle sobre cómo transportar nuestro equipo en la última parte de esta serie. Antes de entrar a detalle con opciones de teclado, cabe mencionar que uno de los principales factores a tomar en cuenta a la hora de elegir un teclado de viaje es el tamaño que viene dado por el layout o distribución de teclas. Hay tres grandes categorías en los teclados: Teclados completos: tienen teclado numérico y teclas de función dedicadas. Es la distribución más usada Teclados 80% o tenkeyless: sin teclado numérico, pero tiene teclas de función dedicadas. Teclados 60% o mini: sin teclado numérico ni teclas de función dedicadas. Pensando en la portabilidad, use por un tiempo un teclado Logitech K410 que parecía perfecto ya que, al estar pensado para usarse en la sala conectado a televisores, es inalámbrico, muy compacto y tiene un trackpad integrado. El problema con dicho teclado es su distribución: ya que logitech quizo meter muchas teclas en una superficie tan pequeña, las teclas son más pequeñas de lo normal lo que propicia muchos errores incluso al usarlo de manera prolongada. El teclado no es malo cumpliendo su propósito original: usarse en la sala conectado a una computadora o a un televisor, pero como teclado para programar es terriblemente malo. Hace dos meses comencé a echarle el ojo a algunos teclados mecánicos que me habían recomendado y la búsqueda se redujo a dos opciones: KBParadise V60 y Code Keyboard. El KBParadise V60 es un teclado mecánico 60% con iluminación en dos colores que se pueden alternar entre rojo, azul y verde según el modelo. Code Keyboard viene en dos presentaciones: teclado completo o teclado 80% teclas. Me decidí por probar la versión 80%. Es un teclado cómodo y se ve muy elegante gracias a la retroiluminación provista por los led blancos. Otro punto a favor es la ubicación de las teclas multimedia en el área superior de las feclas de dirección, mismas que son accesibles a través de la tecla de Fn. He estado utilizando el Code Keyboard de manera regular y vale la pena cargar el peso adicional por la comodidad que brinda. También he estado tentado a reemplazar mi Steelseries Apex por este como teclado principal y conseguir el KBParaside V60 para usarlo como teclado de viaje, pero es un cambio que no tengo pensado realizar en el corto plazo. El complemento ideal Ultimamente he estado utilizando unas almohadillas para descansar las muñecas mientras trabajo y la diferencia es brutal: al levantar la muñeca de posición, se ejerce menos tension en la misma, logrando con eso trabajar de manera más cómoda y sufrir menos los dolores característicos al usar el teclado y el mouse de manera prolongada, reduciendo con esto la posibilidad de reducir una de las enfermedades que más aquejan a las personas que pasamos mucho tiempo en la computadora: el síndrome del túnel carpiano. Conclusión Hemos cubierto de manera breve lo que necesitamos considerar al adquirir los gadgets que nos acompañarán en nuestra vida de nómada digital. En el siguiente post de esta serie, nos enfocaremos en los cables y conectores así como en una forma práctica de mantener todo en su lugar en nuestras maletas. ¡Saludos y felices viajes!</summary></entry><entry><title type="html">La guía técnica del nómada digital (parte I)</title><link href="https://blog.ferperales.net/2016/01/la-guia-tecnica-del-nomada-digital-parte-i/" rel="alternate" type="text/html" title="La guía técnica del nómada digital (parte I)" /><published>2016-01-20T00:00:00-06:00</published><updated>2016-01-20T00:00:00-06:00</updated><id>https://blog.ferperales.net/2016/01/la-guia-tecnica-del-nomada-digital-parte-i</id><content type="html" xml:base="https://blog.ferperales.net/2016/01/la-guia-tecnica-del-nomada-digital-parte-i/">&lt;blockquote&gt;
+  &lt;p&gt;Un &lt;strong&gt;nómada digital&lt;/strong&gt; es un profesional que usa las &lt;a href=&quot;https://es.wikipedia.org/wiki/Tercera_revoluci%C3%B3n_industrial&quot;&gt;nuevas tecnologías&lt;/a&gt; para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota (desde casa, cafeterías o bibliotecas públicas) en lugar de hacerlo en un entorno de trabajo estable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ya hace casi tres meses que regresé a vivir a Guadalajara después de casi tres años de haber vivido en la pequeña y bella ciudad de Colima y pues ya es tiempo de regresar al trabajo después de dos meses “sabáticos” que tomé a finales del año pasado.&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Como sabrán, seguiré trabajando en &lt;a href=&quot;https://magmalabs.io&quot;&gt;MagmaLabs&lt;/a&gt; de manera remota desde Guadalajara. Esto ciertamente no hace mucha diferencia porque el &lt;a href=&quot;https://en.wikipedia.org/wiki/Non-disclosure_agreement&quot; target=&quot;_blank&quot;&gt;projecto&lt;/a&gt; en el que estoy trabajando se ubica en Estados Unidos y pues, en Colima o Guadalajara, sido estando colaborando de manera remota.&lt;/p&gt;
+
+&lt;p&gt;La primera opción fue trabajar desde casa y, si bien es cierto que estoy bastante contento con el área de trabajo que he asignado y equipado, la casa suele ser muy ruidosa durante el día debido a los vecinos lo que vuelve algo complicado poder lograr periodos prolongados de trabajo sin interrupciones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/01/workstation_.jpg&quot; alt=&quot;Escritorio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La siguiente semana después de mis vacaciones trabajé desde las instalaciones en MagmaLabs desde Colima: el trabajar en un lugar más que familiar junto a excelentes compañeros de trabajo es bastante satisfactorio y es fácil sentirte como en casa de nuevo, pero me encontré con el problema de trabajar con periféricos (teclado sobretodo) bastante diferentes a los que uso de manera regular. Digo, no es que escriba a 100 palabras por minuto, pero ese lapso en acostumbrarte a un equipo que no es tuyo es algo que puede ser disruptivo.&lt;/p&gt;
+
+&lt;p&gt;Esta semana estaré trabajando en las instalaciones de &lt;a href=&quot;https://www.corb.mx/&quot; target=&quot;_blank&quot;&gt;CORB consultoría&lt;/a&gt;, un lugar donde ya he dado varios cursos. Esta vez decidí llevar conmigo mi teclado &lt;a href=&quot;https://steelseries.com/gaming-keyboards/apex-350&quot; target=&quot;_blank&quot;&gt;SteelSeries Apex 350&lt;/a&gt; que es un teclado para gaming al que le saqué máximo provecho en mi temporada de &lt;a href=&quot;https://www.dota2.com/&quot; target=&quot;_blank&quot;&gt;dotero&lt;/a&gt; y un mouse &lt;a href=&quot;https://www.linio.com.mx/p/mouse-gaming-eagle-warrior-g13-2400dpi-negro-opb5h5&quot; target=&quot;_blank&quot;&gt; Eagle Warrior G13&lt;/a&gt; que compré en Linio como mouse secundario y que ha desquitado lo que costó. El mouse es fácil de transportar, pero el teclado, debido a sus dimensiones, no.&lt;/p&gt;
+
+&lt;p&gt;La idea de no tener un lugar fijo de trabajo es bastante atractiva ya que nos permite integrar de mejor manera nuestras actividades laborales con las personales ya que podemos reducir de antemano nuestros tiempos de translado si desde el principio del día comenzamos a trabajar en un lugar cercano a donde nuestras actividades personales del día se realizarán.&lt;/p&gt;
+
+&lt;h2 id=&quot;sobre-la-guía&quot;&gt;Sobre la guía&lt;/h2&gt;
+
+&lt;p&gt;Bueno, ¿qué tiene que ver esto con el título del artículo?&lt;/p&gt;
+
+&lt;p&gt;Fácil: la guía busca ser un recopilado de gadgets y aditamentos que facilitan el trabajar en cualquier lugar sin sacrificar comodidad en nuestras estaciones de trabajo temporales y sin tener que cargar equipo pesado o voluminoso a cuestas. Cabe mencionar que no es una guía extensiva y que no he probado todas las cosas habidas y por haber así que mi palabra está lejos de ser ley; tome esta guía a manera de sugerencia y siéntase libre de opinar en la sección de comentarios&lt;/p&gt;
+
+&lt;h2 id=&quot;ergonomía-101&quot;&gt;Ergonomía 101&lt;/h2&gt;
+
+&lt;p&gt;Uno de los primeros problemas a los que nos enfrentaremos al trabajar con una laptop/ultrabook/*book es la posición de trabajo. Al estar el monitor y el teclado unidos al cuerpo del equipo, la movilidad y rango de maniobra que tenemos para ajustar ambas partes es limitada.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/01/ergonomy.jpg&quot; alt=&quot;Posición de trabajo deseable (izquierda) vs. posición &amp;quot;gárgola&amp;quot; (derecha)., [1]&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Debido a esto, si no contamos con el soporte adecuado para nuestro equipo, es muy probable que adoptemos la posición “gárgola” como se muestra del lado derecho de la imagen.&lt;/p&gt;
+
+&lt;p&gt;Es así que el primer aditamento que deberiamos considerar es una base para nuestro equipo.&lt;/p&gt;
+
+&lt;h2 id=&quot;base-para-laptop&quot;&gt;Base para laptop&lt;/h2&gt;
+
+&lt;p&gt;A principios del 2015 ya había buscado una base para utilizar en casa y no encontré algo que me convenciera al 100%. Terminé por comprar una base enfriadora genérica de altura ajustable que ha funcionado bastante bien.&lt;/p&gt;
+
+&lt;p&gt;El problema con esa base es que no es para nada portable, así que quedó descartada para solucionar el problema de trabajar cómodamente en cualquier lugar.&lt;/p&gt;
+
+&lt;h2 id=&quot;roost&quot;&gt;Roost&lt;/h2&gt;
+
+&lt;p&gt;En octubre encontré una campaña en Kickstarter para fondear &lt;a href=&quot;https://www.kickstarter.com/projects/86285180/roost-laptop-stand-free-yourself-from-laptop-neck/description&quot; target=&quot;_blank&quot;&gt;roost&lt;/a&gt;, una base para laptop portable, ligera y de altura ajustable.&lt;/p&gt;
+
+&lt;h3 id=&quot;especificaciones&quot;&gt;Especificaciones&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/01/roost_03.png&quot; alt=&quot;Roost stand&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Su punto fuerte a comparación de la base enfriadora es su tamaño: con sólo 13 pulgadas de largo cuando está compactado lo hace lo bastante pequeño para poder guardarse en cualquier mochila o maletín.&lt;/li&gt;
+  &lt;li&gt;La altura es ajustable en tres posiciones desde 6 hasta las 11 pulgadas, ofreciendo con eso bastante adaptabilidad a todo tipo de personas.&lt;/li&gt;
+  &lt;li&gt;Es compatible con prácticamente cualquier laptop de 1.9 cm de grosor al frente o menos. La he probado con una Macbook Pro Retina  de 13” y una Asus Zenbook de 13” y la base se ajusta firmemente al equipo.&lt;/li&gt;
+  &lt;li&gt;Es ligera: pesa sólo 164 gramos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quizá el único punto en contra es que es considerablemente más caro que el resto de las bases que he visto. Por ahora, se puede preordenar por $59 dólares directamente con el &lt;a href=&quot;https://www.therooststand.com/&quot; target=&quot;_blank&quot;&gt;fabricante&lt;/a&gt;. La base incluye una práctica funda para transportar, y por $35 dólares más, se puede adquirir una funda para mouse y teclado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/01/roost_04.png&quot; alt=&quot;Especificaciones de Roost&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A pesar de que he usado Roost por poco tiempo, creo que vale la pena la inversión ya que es un accesorio que hace diferencia en la forma en que he trabajado en las últimas locaciones que he visitado&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2016/01/roost_.jpg&quot; alt=&quot;Roost en acción&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Qué te ha parecido Roost? ¿Conoces o usas alguna otra base? Házlo saber en los comentarios&lt;/p&gt;
+
+&lt;p&gt;P.D. ¿Han notado que, para usar la base de laptop, también necesitamos un teclado y mouse? Hablaremos de ello en la segunda parte de esta serie&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Imágenes:&lt;/p&gt;
+
+&lt;p&gt;[1] https://www.standivarius.com/images/ergonomy.jpg&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota (desde casa, cafeterías o bibliotecas públicas) en lugar de hacerlo en un entorno de trabajo estable. Ya hace casi tres meses que regresé a vivir a Guadalajara después de casi tres años de haber vivido en la pequeña y bella ciudad de Colima y pues ya es tiempo de regresar al trabajo después de dos meses “sabáticos” que tomé a finales del año pasado.&amp;lt;/p&amp;gt; Como sabrán, seguiré trabajando en MagmaLabs de manera remota desde Guadalajara. Esto ciertamente no hace mucha diferencia porque el projecto en el que estoy trabajando se ubica en Estados Unidos y pues, en Colima o Guadalajara, sido estando colaborando de manera remota. La primera opción fue trabajar desde casa y, si bien es cierto que estoy bastante contento con el área de trabajo que he asignado y equipado, la casa suele ser muy ruidosa durante el día debido a los vecinos lo que vuelve algo complicado poder lograr periodos prolongados de trabajo sin interrupciones. La siguiente semana después de mis vacaciones trabajé desde las instalaciones en MagmaLabs desde Colima: el trabajar en un lugar más que familiar junto a excelentes compañeros de trabajo es bastante satisfactorio y es fácil sentirte como en casa de nuevo, pero me encontré con el problema de trabajar con periféricos (teclado sobretodo) bastante diferentes a los que uso de manera regular. Digo, no es que escriba a 100 palabras por minuto, pero ese lapso en acostumbrarte a un equipo que no es tuyo es algo que puede ser disruptivo. Esta semana estaré trabajando en las instalaciones de CORB consultoría, un lugar donde ya he dado varios cursos. Esta vez decidí llevar conmigo mi teclado SteelSeries Apex 350 que es un teclado para gaming al que le saqué máximo provecho en mi temporada de dotero y un mouse  Eagle Warrior G13 que compré en Linio como mouse secundario y que ha desquitado lo que costó. El mouse es fácil de transportar, pero el teclado, debido a sus dimensiones, no. La idea de no tener un lugar fijo de trabajo es bastante atractiva ya que nos permite integrar de mejor manera nuestras actividades laborales con las personales ya que podemos reducir de antemano nuestros tiempos de translado si desde el principio del día comenzamos a trabajar en un lugar cercano a donde nuestras actividades personales del día se realizarán. Sobre la guía Bueno, ¿qué tiene que ver esto con el título del artículo? Fácil: la guía busca ser un recopilado de gadgets y aditamentos que facilitan el trabajar en cualquier lugar sin sacrificar comodidad en nuestras estaciones de trabajo temporales y sin tener que cargar equipo pesado o voluminoso a cuestas. Cabe mencionar que no es una guía extensiva y que no he probado todas las cosas habidas y por haber así que mi palabra está lejos de ser ley; tome esta guía a manera de sugerencia y siéntase libre de opinar en la sección de comentarios Ergonomía 101 Uno de los primeros problemas a los que nos enfrentaremos al trabajar con una laptop/ultrabook/*book es la posición de trabajo. Al estar el monitor y el teclado unidos al cuerpo del equipo, la movilidad y rango de maniobra que tenemos para ajustar ambas partes es limitada. Debido a esto, si no contamos con el soporte adecuado para nuestro equipo, es muy probable que adoptemos la posición “gárgola” como se muestra del lado derecho de la imagen. Es así que el primer aditamento que deberiamos considerar es una base para nuestro equipo. Base para laptop A principios del 2015 ya había buscado una base para utilizar en casa y no encontré algo que me convenciera al 100%. Terminé por comprar una base enfriadora genérica de altura ajustable que ha funcionado bastante bien. El problema con esa base es que no es para nada portable, así que quedó descartada para solucionar el problema de trabajar cómodamente en cualquier lugar. Roost En octubre encontré una campaña en Kickstarter para fondear roost, una base para laptop portable, ligera y de altura ajustable. Especificaciones Su punto fuerte a comparación de la base enfriadora es su tamaño: con sólo 13 pulgadas de largo cuando está compactado lo hace lo bastante pequeño para poder guardarse en cualquier mochila o maletín. La altura es ajustable en tres posiciones desde 6 hasta las 11 pulgadas, ofreciendo con eso bastante adaptabilidad a todo tipo de personas. Es compatible con prácticamente cualquier laptop de 1.9 cm de grosor al frente o menos. La he probado con una Macbook Pro Retina  de 13” y una Asus Zenbook de 13” y la base se ajusta firmemente al equipo. Es ligera: pesa sólo 164 gramos. Quizá el único punto en contra es que es considerablemente más caro que el resto de las bases que he visto. Por ahora, se puede preordenar por $59 dólares directamente con el fabricante. La base incluye una práctica funda para transportar, y por $35 dólares más, se puede adquirir una funda para mouse y teclado. A pesar de que he usado Roost por poco tiempo, creo que vale la pena la inversión ya que es un accesorio que hace diferencia en la forma en que he trabajado en las últimas locaciones que he visitado ¿Qué te ha parecido Roost? ¿Conoces o usas alguna otra base? Házlo saber en los comentarios P.D. ¿Han notado que, para usar la base de laptop, también necesitamos un teclado y mouse? Hablaremos de ello en la segunda parte de esta serie Imágenes: [1] https://www.standivarius.com/images/ergonomy.jpg</summary></entry><entry><title type="html">El nivel 25</title><link href="https://blog.ferperales.net/2015/10/el-nivel-25/" rel="alternate" type="text/html" title="El nivel 25" /><published>2015-10-18T00:00:00-05:00</published><updated>2015-10-18T00:00:00-05:00</updated><id>https://blog.ferperales.net/2015/10/el-nivel-25</id><content type="html" xml:base="https://blog.ferperales.net/2015/10/el-nivel-25/">&lt;p&gt;Ayer cumplí 26 años.&lt;/p&gt;
+
+&lt;p&gt;A pesar de que han pasado muchas cosas geniales desde hace un año, creo que los 25 han sido la edad más complicada de mi vida hasta el momento debido a la depresión.&lt;/p&gt;
+
+&lt;p&gt;Creo que no vale mucho la pena ahondar en los detalles del por qué comenzó todo; muchos de ustedes ya lo saben, y los que no, pueden preguntarlo de manera personal cuando gusten.&lt;/p&gt;
+
+&lt;p&gt;Todo empezó a finales de diciembre del año pasado. La última semana de diciembre pare ser exactos. Recuerdo que era mi última semana de vacaciones y me la pasé encerrado en el departamento haciendo dos cosas: dormir o llorar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;wp-image-762 size-full&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2015/10/fine.jpg&quot; alt=&quot;How are you? - Fine&quot; width=&quot;513&quot; height=&quot;316&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando tienes problemas con otra persona hay muchas opciones: puedes hablarlo y tratar de arreglarlo, puedes ignorar a la persona y al problema la mayor parte del tiempo o simplemente puedes alejarte para disminuir el conflicto y los sentimientos negativos pero, ¿qué hacer cuando tu enemigo eres tú mismo? ¿Qué hacer cuando tu cabeza te hace concebir una realidad distorcionada en la cuál no eres ni lo suficientemente bueno, ni valioso, ni amado, ni importante?&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; lang=&quot;en&quot;&gt;
+&lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;depression: there's nothing more insidious then a mental disorder that tricks beautiful and kind people into believing thay are worthless.&lt;/p&gt;
+— Damn Depression (@BeyondBrokenDep) &lt;a href=&quot;https://twitter.com/BeyondBrokenDep/status/622694126014889985&quot;&gt;July 19, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; async=&quot;&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Depresión: no hay nada más insidioso que un desorden mental que engaña a hermosas y amables personas para que crean que no son valiosas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;el-punto-de-ruptura&quot;&gt;El punto de ruptura&lt;/h2&gt;
+
+&lt;p&gt;Entre altibajos, los primeros meses podía controlar un poco lo que me pasaba y las crisis no era ni tan regulares ni tan fuertes como en los meses posteriores. De alguna forma, me las arreglaba para darme ánimos de ir a trabajar y cumplir con mis obligaciones. En junio, justo unos días antes de dar una plática en &lt;a href=&quot;https://magmaconf.com&quot; target=&quot;_blank&quot;&gt;MagmaConf&lt;/a&gt;, llegué a un punto donde no pude más. Gracias a &lt;a class=&quot;ProfileNameTruncated-link u-textInheritColor js-nav js-action-profile-name&quot; href=&quot;https://twitter.com/dshafik&quot; data-aria-label-part=&quot;&quot;&gt;Davey Shafik&lt;/a&gt;, a quién conocí en un taller de &lt;a href=&quot;https://deis.io&quot; target=&quot;_blank&quot;&gt;Deis&lt;/a&gt; en Colima, me enteré de &lt;a href=&quot;https://mhprompt.org&quot; target=&quot;_blank&quot;&gt;mhprompt&lt;/a&gt; que es una organización que busca crear conciencia sobre salud mental en las personas involucadras en las tecnologías de la información. Fue por primera vez que, al ver varias de las conferencias que miembros de mhprompt han impartido compartiendo sus experiencias, que me di cuenta que probablemente todo lo que sentía y me estaba pasando no era un hecho aislado y que podrían ser síntomas de algo más grande como podría ser un cuadro de depresión.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-ayuda&quot;&gt;La ayuda&lt;/h2&gt;
+
+&lt;p&gt;Después de haber impartido un par de conferencias en &lt;a href=&quot;https://magmaconf.com&quot; target=&quot;_blank&quot;&gt;MagmaConf&lt;/a&gt; y &lt;a href=&quot;https://sg.com.mx/sgce&quot; target=&quot;_blank&quot;&gt;Software Guru Conference and Expo&lt;/a&gt;, decidí recurrir a ayuda profesional. Por recomendación de &lt;a href=&quot;https://twitter.com/lauraIbaVe&quot; target=&quot;_blank&quot;&gt;Laura&lt;/a&gt;, conocí a la Psic. Ana Fuentes y a &lt;a href=&quot;https://twitter.com/cosameac&quot; target=&quot;_blank&quot;&gt;COSAME&lt;/a&gt;; una asociación civil ubicada en Colima cuyo objetivo es ayudar a mejorar la calidad de vida de las personas que padecen una enfermedad mental y la de sus familiares. Después de casi cuatro meses de asistir, puedo decir que fue la mejor decisión que pude haber tomado. Es cierto, los días malos donde no encuentro motivación para comer o levantarme de la cama aún aparecen, pero cada vez son menos frecuentes. Aún hay mucho por trabajar, pero el saber que no estoy solo (aunque muchas veces así lo pensé) ayuda a seguir adelante.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-luz-al-final-del-mundo&quot;&gt;La luz al final del mundo&lt;/h2&gt;
+
+&lt;p&gt;Dentro de todo lo malo que esto ha traído a mi vida, creo que me he quedado con algunas cosas buenas que siendo la primera el desarrollo de empatía hacia las personas que han sufrido o están pasando por momentos difīciles debido a enfermedades mentales.&lt;/p&gt;
+
+&lt;p&gt;Gracias a todos los que han estado a mi lado en estos momentos tan difíciles y me han apoyado:&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://twitter.com/lauraIbaVe&quot; target=&quot;_blank&quot;&gt;Laura&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/katiejmz&quot; target=&quot;_blank&quot;&gt;Kathy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/sevavolverloca&quot; target=&quot;_blank&quot;&gt;Edmundo&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/mlkvn&quot; target=&quot;_blank&quot;&gt;Yizia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/levhita&quot; target=&quot;_blank&quot;&gt;Levhita&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/miawmomo&quot; target=&quot;_blank&quot;&gt;Momo&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/tuwerapreciosa&quot; target=&quot;_blank&quot;&gt;Selene&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/nmicht&quot; target=&quot;_blank&quot;&gt;Michelle&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/arce_requena&quot; target=&quot;_blank&quot;&gt;Arce&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/kathriotgrrl&quot; target=&quot;_blank&quot;&gt;Kathia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/laiiky&quot; target=&quot;_blank&quot;&gt;Mayra&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/anymoto&quot; target=&quot;_blank&quot;&gt;Ana&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/aromaron&quot; target=&quot;_blank&quot;&gt;Nora&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/sandrely26&quot; target=&quot;_blank&quot;&gt;Sandra&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/anyvelnz&quot; target=&quot;_blank&quot;&gt;Karen&lt;/a&gt;, entre muchísimos otros. Ya me encargaré de agradecerles personalmente a cada uno de ustedes 😊.&lt;/p&gt;
+
+&lt;p&gt;También quiero disculparme con mi familia y amigos por no haber estado ahí cuando me necesitaron, por alejarme y evitarlos, por haberles dicho cosas hirientes o reclamos infundados, por no haberlos felicitado por sus logros.&lt;/p&gt;
+
+&lt;p&gt;Es difícil preocuparte por otros cuando tú mismo te estás cayendo a pedazos. Lo siento. Me esforzaré para que no vuelva a pasar.&lt;/p&gt;
+
+&lt;h2 id=&quot;gran-final&quot;&gt;Gran final&lt;/h2&gt;
+
+&lt;p&gt;Es curioso cómo todo tiende a regresar a su estado natural y, en las últimas semanas, las cosas han mejorado poco a poco: he conocido personas geniales (gracias por todo &lt;a href=&quot;https://twitter.com/classidia&quot; target=&quot;_blank&quot;&gt;Class&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/isirina&quot; target=&quot;_blank&quot;&gt;Isis&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/bittersweet616&quot; target=&quot;_blank&quot;&gt;Edith&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/dianaceci_lia&quot; target=&quot;_blank&quot;&gt;Cecilia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/lariannee&quot; target=&quot;_blank&quot;&gt;Lariannee&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/niurkahope&quot; target=&quot;_blank&quot;&gt;Hope&lt;/a&gt;), nuevos lugares (Monterrey), he aprendido mucho sobre lo que en verdad soy y lo que en verdad quiero y eso hace más claro las decisiones que debo tomar y el camino a seguir.&lt;/p&gt;
+
+&lt;p&gt;Es cierto que mi vida está llena de incertidumbre y no sé que haré en los próximos meses, pero el futuro se ve alentador y sé que algo mejor está por venir.&lt;/p&gt;
+
+&lt;p&gt;Por el momento, sólo queda prepararse para el inicio del nivel 26&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.ferperales.net/wp-content/uploads/2015/10/lvl26.jpeg&quot; alt=&quot;Level up &amp;quot;26&amp;quot;. Yeah, madafakas!&quot; width=&quot;259&quot; height=&quot;194&quot; /&gt;&lt;/p&gt;</content><author><name>Fer Perales</name></author><summary type="html">Ayer cumplí 26 años. A pesar de que han pasado muchas cosas geniales desde hace un año, creo que los 25 han sido la edad más complicada de mi vida hasta el momento debido a la depresión. Creo que no vale mucho la pena ahondar en los detalles del por qué comenzó todo; muchos de ustedes ya lo saben, y los que no, pueden preguntarlo de manera personal cuando gusten. Todo empezó a finales de diciembre del año pasado. La última semana de diciembre pare ser exactos. Recuerdo que era mi última semana de vacaciones y me la pasé encerrado en el departamento haciendo dos cosas: dormir o llorar. Cuando tienes problemas con otra persona hay muchas opciones: puedes hablarlo y tratar de arreglarlo, puedes ignorar a la persona y al problema la mayor parte del tiempo o simplemente puedes alejarte para disminuir el conflicto y los sentimientos negativos pero, ¿qué hacer cuando tu enemigo eres tú mismo? ¿Qué hacer cuando tu cabeza te hace concebir una realidad distorcionada en la cuál no eres ni lo suficientemente bueno, ni valioso, ni amado, ni importante? depression: there's nothing more insidious then a mental disorder that tricks beautiful and kind people into believing thay are worthless. — Damn Depression (@BeyondBrokenDep) July 19, 2015 Depresión: no hay nada más insidioso que un desorden mental que engaña a hermosas y amables personas para que crean que no son valiosas El punto de ruptura Entre altibajos, los primeros meses podía controlar un poco lo que me pasaba y las crisis no era ni tan regulares ni tan fuertes como en los meses posteriores. De alguna forma, me las arreglaba para darme ánimos de ir a trabajar y cumplir con mis obligaciones. En junio, justo unos días antes de dar una plática en MagmaConf, llegué a un punto donde no pude más. Gracias a Davey Shafik, a quién conocí en un taller de Deis en Colima, me enteré de mhprompt que es una organización que busca crear conciencia sobre salud mental en las personas involucadras en las tecnologías de la información. Fue por primera vez que, al ver varias de las conferencias que miembros de mhprompt han impartido compartiendo sus experiencias, que me di cuenta que probablemente todo lo que sentía y me estaba pasando no era un hecho aislado y que podrían ser síntomas de algo más grande como podría ser un cuadro de depresión. La ayuda Después de haber impartido un par de conferencias en MagmaConf y Software Guru Conference and Expo, decidí recurrir a ayuda profesional. Por recomendación de Laura, conocí a la Psic. Ana Fuentes y a COSAME; una asociación civil ubicada en Colima cuyo objetivo es ayudar a mejorar la calidad de vida de las personas que padecen una enfermedad mental y la de sus familiares. Después de casi cuatro meses de asistir, puedo decir que fue la mejor decisión que pude haber tomado. Es cierto, los días malos donde no encuentro motivación para comer o levantarme de la cama aún aparecen, pero cada vez son menos frecuentes. Aún hay mucho por trabajar, pero el saber que no estoy solo (aunque muchas veces así lo pensé) ayuda a seguir adelante. La luz al final del mundo Dentro de todo lo malo que esto ha traído a mi vida, creo que me he quedado con algunas cosas buenas que siendo la primera el desarrollo de empatía hacia las personas que han sufrido o están pasando por momentos difīciles debido a enfermedades mentales. Gracias a todos los que han estado a mi lado en estos momentos tan difíciles y me han apoyado: Laura, Kathy, Edmundo, Yizia, Levhita, Momo, Selene, Michelle, Arce, Kathia, Mayra, Ana, Nora, Sandra, Karen, entre muchísimos otros. Ya me encargaré de agradecerles personalmente a cada uno de ustedes 😊. También quiero disculparme con mi familia y amigos por no haber estado ahí cuando me necesitaron, por alejarme y evitarlos, por haberles dicho cosas hirientes o reclamos infundados, por no haberlos felicitado por sus logros. Es difícil preocuparte por otros cuando tú mismo te estás cayendo a pedazos. Lo siento. Me esforzaré para que no vuelva a pasar. Gran final Es curioso cómo todo tiende a regresar a su estado natural y, en las últimas semanas, las cosas han mejorado poco a poco: he conocido personas geniales (gracias por todo Class, Isis, Edith, Cecilia, Lariannee y Hope), nuevos lugares (Monterrey), he aprendido mucho sobre lo que en verdad soy y lo que en verdad quiero y eso hace más claro las decisiones que debo tomar y el camino a seguir. Es cierto que mi vida está llena de incertidumbre y no sé que haré en los próximos meses, pero el futuro se ve alentador y sé que algo mejor está por venir. Por el momento, sólo queda prepararse para el inicio del nivel 26</summary></entry><entry><title type="html">GoKey: un llavero imperdible para todo geek</title><link href="https://blog.ferperales.net/2014/05/gokey-un-llavero-imperdible-para-todo-geek/" rel="alternate" type="text/html" title="GoKey: un llavero imperdible para todo geek" /><published>2014-05-27T00:00:00-05:00</published><updated>2014-05-27T00:00:00-05:00</updated><id>https://blog.ferperales.net/2014/05/gokey-un-llavero-imperdible-para-todo-geek</id><content type="html" xml:base="https://blog.ferperales.net/2014/05/gokey-un-llavero-imperdible-para-todo-geek/">&lt;p style=&quot;text-align: center;&quot;&gt;Una de las cosas que me agradan mucho del crowdfunding es que ya no es necesario esperar a que ls grandes empresas tecnológicas de siempre se les ocurra crear el gadget de nuestros sueños: sólo basta una idea, personas interesadas en llevarla a cabo y dinero para comenzar el proyecto.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;La semana pasada decidí darme una vuelta por &lt;a href=&quot;www.indiegogo.com&quot;&gt;Indiegogo&lt;/a&gt; para ver cuáles eran los proyectos que estaban causando sensación en la sección de tecnología y tuve la fortuna de encontrarme con &lt;a href=&quot;https://www.indiegogo.com/projects/gokey-charger-cable-locator-memory-all-on-your-key-ring/x/7490284&quot;&gt;GoKey&lt;/a&gt;:&lt;/p&gt;
+
+https://vimeo.com/92268891
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;GoKey es, en pocas palabras, un llavero todo en uno que pretende cubrir las necesidades de todo geek:&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/wp-content/uploads/2014/05/255_Prezi_es.png&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-775&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2014/05/255_Prezi_es.png&quot; alt=&quot;255_Prezi_es&quot; width=&quot;580&quot; height=&quot;763&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;En primera instancia, contiene una batería de emergencia de 400 mah que parece ser suficiente para extender la duración de nuestro smartphone por dos horas. Esta batería, a pesar de parecer algo pequeña en comparación del tamaño de una batería promedio (2000 mah), está pensada para sacarnos de un apuro donde no contemos con una toma de corriente de manera inmediata.&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;La segunda funcionalidad va de la mano con la mencionada anteriormente: nos provee de un cable para cargar nuestro smartphone o cualquier otro dispositivo con entrada microUSB o Lightning. Este mismo cable funciona para cargar la batería de emergencia.&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;El tercer agregado de GoKey consiste en una siempre útil memoria USB con capacidades de almacenamiento que parten de los 8 GB en su versión más básica hasta los 32 GB en el modelo más caro.&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;Como última funcionalidad nos permite la conexión via Bluetooth con nuestro smartphone con la finalidad de poder localizar nuestras llaves o viceversa: encontrar nuestro teléfono emitiendo una alarma cuando nuestro llavero se acerque al mismo.&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;La campaña logró en poco tiempo su meta de financiación que era de $40,000 dólares y, a 7 días de finalizar la campaña, está en busca de conseguir $500,000 dólares para agregar localización via GPS y, en su meta más ambiciosa, agregar soporte para USB 3.0 si logran alcanzan los $750,000 dólares.&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;Aunque se ve un poco complicado lograr esas metas adicionales, aún están a tiempo de apoyar la campaña y llevarse uno de los primeros GoKey creados a principios del próximo año.&lt;/div&gt;</content><author><name>Fer Perales</name></author><summary type="html">Una de las cosas que me agradan mucho del crowdfunding es que ya no es necesario esperar a que ls grandes empresas tecnológicas de siempre se les ocurra crear el gadget de nuestros sueños: sólo basta una idea, personas interesadas en llevarla a cabo y dinero para comenzar el proyecto. La semana pasada decidí darme una vuelta por Indiegogo para ver cuáles eran los proyectos que estaban causando sensación en la sección de tecnología y tuve la fortuna de encontrarme con GoKey: https://vimeo.com/92268891</summary></entry><entry><title type="html">Cerveza artesanal a domicilio</title><link href="https://blog.ferperales.net/2013/10/cerveza-artesanal-a-domicilio/" rel="alternate" type="text/html" title="Cerveza artesanal a domicilio" /><published>2013-10-23T00:00:00-05:00</published><updated>2013-10-23T00:00:00-05:00</updated><id>https://blog.ferperales.net/2013/10/cerveza-artesanal-a-domicilio</id><content type="html" xml:base="https://blog.ferperales.net/2013/10/cerveza-artesanal-a-domicilio/">Debido al relativamente reciente boom por las cervezas artesanales en México, he encontrado dos empresas dedicadas a comercializar y dar a conocer este tipo de cervezas tanto nacionales como extranjeras. Ambas empresas ofrecen la ventaja de tener entrega a domicilio pero la diferencia radica en las diferentes mecánicas respecto a la venta de la cerveza:
+
+Tres pares
+
+&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=&quot; rel=&quot;attachment wp-att-635&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-635&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/10/Selection_010.png&quot; alt=&quot;Selection_010&quot; width=&quot;754&quot; height=&quot;497&quot; /&gt;&lt;/a&gt;
+
+Tres pares sigue el modelo de suscripción al igual &lt;a href=&quot;https://rubberit.co/&quot;&gt;Rubberit&lt;/a&gt;, &lt;a href=&quot;https://mycoffeebox.com/&quot;&gt;MyCoffeeBox&lt;/a&gt; y &lt;a href=&quot;https://clubguaf.com/&quot;&gt;Club Guaf&lt;/a&gt;: por $300.00 al mes más envío, recibirás tres pares de cervezas artesanales en la puerta de tu hogar con información relativa a cada una. En dado caso de que alguna de las cervezas recibidas sea de tu especial agrado, podrás pedir a tres pares que te envíen seis del mismo tipo.
+
+&lt;!--more--&gt;
+
+La apuesta de Tres pares es llegar al público que no tiene miedo a probar cervezas desconocidas mes a mes pero deja abierta la puerta a que continues comprando tu nueva cerveza favorita si es que la descubres gracias a ellos
+
+Más información en su &lt;a href=&quot;https://www.trespares.mx/&quot;&gt;página oficial&lt;/a&gt;.
+
+&lt;hr /&gt;
+
+Growlers
+
+&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=&quot; rel=&quot;attachment wp-att-636&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-636&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/10/Selection_011.png&quot; alt=&quot;Selection_011&quot; width=&quot;968&quot; height=&quot;403&quot; /&gt;&lt;/a&gt;
+
+Growlers apuesta por la cerveza de barril en cantidades más copiosas: por tiempo limitado, ellos te regalan un growler en la compra de tu primer llenado. El barril de cerveza es elegido por la empresa, el barril se compra y entrega una vez que la totalidad del mismo fue vendido. El tiempo de venta entre un barril y otro aparentemente no es fijo, pero los barriles se suelen terminar a los pocos días de haber sido anunciados.
+
+Más información en su &lt;a href=&quot;https://growlers.mx/&quot;&gt;página oficial&lt;/a&gt;
+
+&lt;hr /&gt;
+
+Conclusión:
+
+Ambos servicios me parecen atractivos tanto para las personas que recién se inician en el mundo de las cervezas artesanales pero, si habría de elegir una opción, me iría por Tres Pares debido a la variedad que ofrecen pero no perdería de vista los barriles disponibles en Growlers.mx por si se ofrece algo fuera de lo común.</content><author><name>Fer Perales</name></author><summary type="html">Debido al relativamente reciente boom por las cervezas artesanales en México, he encontrado dos empresas dedicadas a comercializar y dar a conocer este tipo de cervezas tanto nacionales como extranjeras. Ambas empresas ofrecen la ventaja de tener entrega a domicilio pero la diferencia radica en las diferentes mecánicas respecto a la venta de la cerveza: Tres pares Tres pares sigue el modelo de suscripción al igual Rubberit, MyCoffeeBox y Club Guaf: por $300.00 al mes más envío, recibirás tres pares de cervezas artesanales en la puerta de tu hogar con información relativa a cada una. En dado caso de que alguna de las cervezas recibidas sea de tu especial agrado, podrás pedir a tres pares que te envíen seis del mismo tipo.</summary></entry><entry><title type="html">Taller de marketing de contenidos</title><link href="https://blog.ferperales.net/2013/05/taller-de-marketing-de-contenidos/" rel="alternate" type="text/html" title="Taller de marketing de contenidos" /><published>2013-05-30T00:00:00-05:00</published><updated>2013-05-30T00:00:00-05:00</updated><id>https://blog.ferperales.net/2013/05/taller-de-marketing-de-contenidos</id><content type="html" xml:base="https://blog.ferperales.net/2013/05/taller-de-marketing-de-contenidos/">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=&quot; rel=&quot;attachment wp-att-575&quot;&gt;&lt;img class=&quot;wp-image-575 aligncenter&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/05/Selection_145.png&quot; alt=&quot;Selection_145&quot; width=&quot;597&quot; height=&quot;227&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/ccossio&quot; target=&quot;_blank&quot;&gt;Claudio Cossio&lt;/a&gt; impartirá un taller de dos horas sobre cómo crear contenido de calidad para atraer a un público en específico para lograr un mayor impacto en las estrategias de comunicación.
+
+&lt;!--more--&gt;
+
+El objetivo del taller es dar a conocer qué elementos forman una estrategia exitosa así como explicar los beneficios para las metas generales del marketing y compartir algunas de las técnicas y mejores prácticas de redacción para crear dichos contenidos
+
+&lt;hr /&gt;
+
+Detalles:
+
+Fecha: 5 de junio del 2013 a partir de las 5:15 p.m
+
+Lugar: Parque tecnológico ITESO
+
+Duración: 2 horas
+
+Costo: gratuito pero requiere &lt;a href=&quot;https://marketingdecontenidos.boletia.com/&quot; target=&quot;_blank&quot;&gt;registro&lt;/a&gt;
+
+Contenido:
+
+Duración: 2 horas.
+
+Contenido:
+&lt;ul&gt;
+	&lt;li&gt;Voz y Tono.&lt;/li&gt;
+	&lt;li&gt;Manual de Estilo.&lt;/li&gt;
+	&lt;li&gt;Estrategia de Contenidos.&lt;/li&gt;
+	&lt;li&gt;Mejores prácticas.&lt;/li&gt;
+&lt;/ul&gt;
+Más información: en las cuentas de &lt;a href=&quot;https://twitter.com/hackfundgdl&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt; y &lt;a href=&quot;https://www.facebook.com/hackersandfoundersgdl&quot; target=&quot;_blank&quot;&gt;facebook&lt;/a&gt; de Hackers and Founders GDL</content><author><name>Fer Perales</name></author><summary type="html">Claudio Cossio impartirá un taller de dos horas sobre cómo crear contenido de calidad para atraer a un público en específico para lograr un mayor impacto en las estrategias de comunicación.</summary></entry><entry><title type="html">Inauguración HackerGarage 3.0</title><link href="https://blog.ferperales.net/2013/05/inauguracion-hackergarage-3-0/" rel="alternate" type="text/html" title="Inauguración HackerGarage 3.0" /><published>2013-05-29T00:00:00-05:00</published><updated>2013-05-29T00:00:00-05:00</updated><id>https://blog.ferperales.net/2013/05/inauguracion-hackergarage-3-0</id><content type="html" xml:base="https://blog.ferperales.net/2013/05/inauguracion-hackergarage-3-0/">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://blog.ferperales.net/?attachment_id=591&quot; rel=&quot;attachment wp-att-591&quot;&gt;&lt;img class=&quot; wp-image-591 aligncenter&quot; alt=&quot;TPTJD3B&quot; src=&quot;https://blog.ferperales.net/wp-content/uploads/2013/05/TPTJD3B.png&quot; width=&quot;378&quot; height=&quot;535&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;span style=&quot;line-height: 1.714285714; font-size: 1rem;&quot;&gt;Por fin la tan esperada inauguración del HackerGarage 3.0 este 30 de Mayo, en Vidrio #2184 Justo al lado del viejo HackerGarage&lt;/span&gt;
+
+No olvides registrarte en &lt;a href=&quot;https://hfgdl-ehometext.eventbrite.com/&quot;&gt;EventBrite&lt;/a&gt; para asistir</content><author><name>Fer Perales</name></author><summary type="html">Por fin la tan esperada inauguración del HackerGarage 3.0 este 30 de Mayo, en Vidrio #2184 Justo al lado del viejo HackerGarage No olvides registrarte en EventBrite para asistir</summary></entry></feed>
