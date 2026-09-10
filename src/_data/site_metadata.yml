@@ -1,0 +1,22 @@
+title: Blog de Fer Perales
+email: me@ferperales.net
+description: "Startup&Coding&Design&Music&More"
+lang: es_MX
+author: Fer Perales
+
+twitter_username: ferperalesm
+github_username: ferperales
+
+twitter:
+  username: FerPeralesM
+  card: summary
+
+social:
+  name: Fer Perales
+  links:
+    - https://twitter.com/FerPeralesM
+    - https://www.linkedin.com/in/FerPerales
+    - https://github.com/ferperales
+
+disqus:
+  shortname: ferperalesnet
