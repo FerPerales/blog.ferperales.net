@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ resource.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ resource.date | date: "%b %-d, %Y" }}
+      </time>
+      {%- if resource.data.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ resource.data.author | escape }}</span></span>
+      {%- endif -%}
+    </p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ resource.data.title | escape }}</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.metadata.disqus.shortname -%}
+    {% render "disqus_comments", metadata: site.metadata, resource: resource %}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ resource.relative_url }}" hidden></a>
+</article>

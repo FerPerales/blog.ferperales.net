@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ site.metadata.lang | default: "en" }}">
+  <head>
+    {% render "head", metadata: site.metadata, title: data.title %}
+  </head>
+  <body>
+    {% render "header", metadata: site.metadata %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% render "footer", metadata: site.metadata %}
+  </body>
+</html>
