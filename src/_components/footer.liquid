@@ -36,5 +36,12 @@
     <div class='credits undecorated-link'>
       Theme based on Wordpress theme Fastr by Kanish
     </div>
+    {%- if git_release -%}
+      <div class='release-info undecorated-link'>
+        Latest release:
+        <a target='_blank' href="https://github.com/FerPerales/blog.ferperales.net/commit/{{ git_release.sha }}">{{ git_release.sha }}</a>
+        - {{ git_release.message }} on {{ git_release.date }}
+      </div>
+    {%- endif -%}
   </div>
 </footer>
