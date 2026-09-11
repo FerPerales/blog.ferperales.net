@@ -1,0 +1,4 @@
+name: "CodeQL config"
+
+paths-ignore:
+  - config/esbuild.defaults.js
