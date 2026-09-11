@@ -7,7 +7,7 @@ Bridgetown.configure do |config|
 
   markdown "kramdown"
 
-  permalink "/:year/:month/:title/"
+  permalink "/:year/:month/:slug/"
 
   pagination do
     enabled true
